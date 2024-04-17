@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1712713333016" clover="4.4.1">
+   <project name="Schedule 0.0.1-SNAPSHOT" timestamp="1712713329211">
+      <metrics coveredelements="102" complexity="26" loc="211" methods="15" classes="2" statements="69" packages="1" coveredconditionals="21" coveredmethods="14" elements="106" ncloc="126" files="2" conditionals="22" coveredstatements="67"/>
+      <package name="net.mooctest">
+         <metrics coveredelements="102" complexity="26" loc="211" methods="15" classes="2" statements="69" coveredconditionals="21" coveredmethods="14" elements="106" ncloc="126" files="2" conditionals="22" coveredstatements="67"/>
+         <file path="C:\mooctest\projects\103\76\Schedule\src\main\java\net\mooctest\Schedule.java" name="Schedule.java">
+            <metrics coveredelements="78" coveredconditionals="21" complexity="14" loc="105" coveredmethods="3" methods="3" elements="80" classes="1" ncloc="80" statements="55" conditionals="22" coveredstatements="54"/>
+            <class name="Schedule">
+               <metrics coveredelements="78" coveredconditionals="21" complexity="14" coveredmethods="3" methods="3" elements="80" statements="55" conditionals="22" coveredstatements="54"/>
+            </class>
+            <line complexity="3" visibility="public" signature="FCFS(List&lt;Work&gt;) : List&lt;Double&gt;" num="8" count="2" type="method"/>
+            <line num="9" count="2" type="stmt"/>
+            <line num="10" count="2" type="stmt"/>
+            <line num="11" count="2" type="stmt"/>
+            <line num="12" count="2" type="stmt"/>
+            <line falsecount="2" truecount="3" num="12" type="cond"/>
+            <line num="15" count="3" type="stmt"/>
+            <line falsecount="1" truecount="2" num="15" type="cond"/>
+            <line num="16" count="2" type="stmt"/>
+            <line num="18" count="1" type="stmt"/>
+            <line num="20" count="3" type="stmt"/>
+            <line num="24" count="3" type="stmt"/>
+            <line num="25" count="3" type="stmt"/>
+            <line num="27" count="2" type="stmt"/>
+            <line num="28" count="2" type="stmt"/>
+            <line num="29" count="2" type="stmt"/>
+            <line num="30" count="2" type="stmt"/>
+            <line num="31" count="2" type="stmt"/>
+            <line complexity="7" visibility="public" signature="SJF(List&lt;Work&gt;) : List&lt;Double&gt;" num="40" count="3" type="method"/>
+            <line num="41" count="3" type="stmt"/>
+            <line num="42" count="3" type="stmt"/>
+            <line num="43" count="3" type="stmt"/>
+            <line num="44" count="3" type="stmt"/>
+            <line num="45" count="3" type="stmt"/>
+            <line num="46" count="3" type="stmt"/>
+            <line num="48" count="3" type="stmt"/>
+            <line falsecount="3" truecount="7" num="48" type="cond"/>
+            <line num="50" count="7" type="stmt"/>
+            <line falsecount="7" truecount="19" num="50" type="cond"/>
+            <line num="51" count="19" type="stmt"/>
+            <line falsecount="13" truecount="6" num="51" type="cond"/>
+            <line num="52" count="6" type="stmt"/>
+            <line num="53" count="13" type="stmt"/>
+            <line falsecount="2" truecount="11" num="53" type="cond"/>
+            <line num="54" count="11" type="stmt"/>
+            <line num="57" count="7" type="stmt"/>
+            <line falsecount="7" truecount="0" num="57" type="cond"/>
+            <line num="58" count="0" type="stmt"/>
+            <line num="60" count="7" type="stmt"/>
+            <line num="62" count="7" type="stmt"/>
+            <line num="63" count="7" type="stmt"/>
+            <line num="64" count="7" type="stmt"/>
+            <line num="65" count="7" type="stmt"/>
+            <line num="66" count="7" type="stmt"/>
+            <line num="67" count="7" type="stmt"/>
+            <line num="68" count="7" type="stmt"/>
+            <line num="72" count="3" type="stmt"/>
+            <line falsecount="3" truecount="7" num="72" type="cond"/>
+            <line num="73" count="7" type="stmt"/>
+            <line num="74" count="7" type="stmt"/>
+            <line num="76" count="3" type="stmt"/>
+            <line num="77" count="3" type="stmt"/>
+            <line num="78" count="3" type="stmt"/>
+            <line num="79" count="3" type="stmt"/>
+            <line num="80" count="3" type="stmt"/>
+            <line complexity="4" visibility="public" signature="sortByServiceTime(List&lt;Work&gt;) : List&lt;Work&gt;" num="90" count="7" type="method"/>
+            <line num="91" count="7" type="stmt"/>
+            <line falsecount="7" truecount="11" num="91" type="cond"/>
+            <line num="92" count="11" type="stmt"/>
+            <line falsecount="11" truecount="5" num="92" type="cond"/>
+            <line num="93" count="5" type="stmt"/>
+            <line num="94" count="5" type="stmt"/>
+            <line num="95" count="5" type="stmt"/>
+            <line num="96" count="5" type="stmt"/>
+            <line num="97" count="5" type="stmt"/>
+            <line falsecount="1" truecount="4" num="97" type="cond"/>
+            <line num="98" count="4" type="stmt"/>
+            <line num="99" count="4" type="stmt"/>
+            <line num="103" count="7" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\103\76\Schedule\src\main\java\net\mooctest\Work.java" name="Work.java">
+            <metrics coveredelements="24" coveredconditionals="0" complexity="12" loc="106" coveredmethods="11" methods="12" elements="26" classes="1" ncloc="46" statements="14" conditionals="0" coveredstatements="13"/>
+            <class name="Work">
+               <metrics coveredelements="24" coveredconditionals="0" complexity="12" coveredmethods="11" methods="12" elements="26" statements="14" conditionals="0" coveredstatements="13"/>
+            </class>
+            <line complexity="1" visibility="public" signature="setIn() : void" num="18" count="7" type="method"/>
+            <line num="19" count="7" type="stmt"/>
+            <line complexity="1" visibility="public" signature="isIn() : boolean" num="25" count="19" type="method"/>
+            <line num="26" count="19" type="stmt"/>
+            <line complexity="1" visibility="public" signature="Work(String,int,int)" num="34" count="7" type="method"/>
+            <line num="35" count="7" type="stmt"/>
+            <line num="36" count="7" type="stmt"/>
+            <line num="37" count="7" type="stmt"/>
+            <line complexity="1" visibility="public" signature="setBeginTime(int) : void" num="43" count="10" type="method"/>
+            <line num="44" count="10" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getBeginTime() : int" num="50" count="10" type="method"/>
+            <line num="51" count="10" type="stmt"/>
+            <line complexity="1" visibility="public" signature="setEndTime(int) : void" num="57" count="10" type="method"/>
+            <line num="58" count="10" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getEndTime() : int" num="64" count="9" type="method"/>
+            <line num="65" count="9" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getCircleTime() : int" num="71" count="20" type="method"/>
+            <line num="72" count="20" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getCircleWPTime() : double" num="78" count="10" type="method"/>
+            <line num="81" count="10" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getPriority() : int" num="87" count="0" type="method"/>
+            <line num="90" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getArrivalTime() : int" num="96" count="14" type="method"/>
+            <line num="97" count="14" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getServiceTime() : int" num="103" count="20" type="method"/>
+            <line num="104" count="20" type="stmt"/>
+         </file>
+      </package>
+   </project>
+   <testproject name="Schedule 0.0.1-SNAPSHOT" timestamp="1712713329211">
+      <metrics coveredelements="17" complexity="1" loc="55" methods="1" classes="1" statements="16" packages="1" coveredconditionals="0" coveredmethods="1" elements="17" ncloc="35" files="1" conditionals="0" coveredstatements="16"/>
+      <package name="net.mooctest">
+         <metrics coveredelements="17" complexity="1" loc="55" methods="1" classes="1" statements="16" coveredconditionals="0" coveredmethods="1" elements="17" ncloc="35" files="1" conditionals="0" coveredstatements="16"/>
+         <file path="C:\mooctest\projects\103\76\Schedule\src\test\java\net\mooctest\ScheduleTest.java" name="ScheduleTest.java">
+            <metrics coveredelements="17" coveredconditionals="0" complexity="1" loc="55" coveredmethods="1" methods="1" elements="17" classes="1" ncloc="35" statements="16" conditionals="0" coveredstatements="16"/>
+            <class name="ScheduleTest">
+               <metrics coveredelements="17" complexity="1" methods="1" testruns="1" statements="16" coveredconditionals="0" coveredmethods="1" elements="17" testfailures="0" testduration="0.03" conditionals="0" coveredstatements="16" testpasses="1"/>
+            </class>
+            <line complexity="1" visibility="public" signature="test() : void" num="12" testsuccess="true" count="1" testduration="0.03" type="method"/>
+            <line num="14" count="1" type="stmt"/>
+            <line num="16" count="1" type="stmt"/>
+            <line num="18" count="1" type="stmt"/>
+            <line num="24" count="1" type="stmt"/>
+            <line num="30" count="1" type="stmt"/>
+            <line num="34" count="1" type="stmt"/>
+            <line num="36" count="1" type="stmt"/>
+            <line num="38" count="1" type="stmt"/>
+            <line num="40" count="1" type="stmt"/>
+            <line num="42" count="1" type="stmt"/>
+            <line num="44" count="1" type="stmt"/>
+            <line num="45" count="1" type="stmt"/>
+            <line num="47" count="1" type="stmt"/>
+            <line num="48" count="1" type="stmt"/>
+            <line num="50" count="1" type="stmt"/>
+            <line num="51" count="1" type="stmt"/>
+         </file>
+      </package>
+   </testproject>
+</coverage>

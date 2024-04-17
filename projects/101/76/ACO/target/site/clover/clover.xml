@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1711961159239" clover="4.4.1">
+   <project name="ACO 0.0.1-SNAPSHOT" timestamp="1711961156721">
+      <metrics coveredelements="228" complexity="46" loc="459" methods="14" classes="2" statements="167" packages="1" coveredconditionals="48" coveredmethods="14" elements="231" ncloc="270" files="2" conditionals="50" coveredstatements="166"/>
+      <package name="net.mooctest">
+         <metrics coveredelements="228" complexity="46" loc="459" methods="14" classes="2" statements="167" coveredconditionals="48" coveredmethods="14" elements="231" ncloc="270" files="2" conditionals="50" coveredstatements="166"/>
+         <file path="C:\mooctest\projects\101\76\ACO\src\main\java\net\mooctest\ACO.java" name="ACO.java">
+            <metrics coveredelements="177" coveredconditionals="39" complexity="31" loc="335" coveredmethods="8" methods="8" elements="178" classes="1" ncloc="204" statements="130" conditionals="40" coveredstatements="130"/>
+            <class name="ACO">
+               <metrics coveredelements="177" coveredconditionals="39" complexity="31" coveredmethods="8" methods="8" elements="178" statements="130" conditionals="40" coveredstatements="130"/>
+            </class>
+            <line complexity="1" visibility="public" signature="ACO(ArrayList&lt;String[]&gt;,int,double,double,double,double)" num="52" count="2" type="method"/>
+            <line num="54" count="2" type="stmt"/>
+            <line num="55" count="2" type="stmt"/>
+            <line num="56" count="2" type="stmt"/>
+            <line num="57" count="2" type="stmt"/>
+            <line num="58" count="2" type="stmt"/>
+            <line num="59" count="2" type="stmt"/>
+            <line num="61" count="2" type="stmt"/>
+            <line complexity="8" visibility="private" signature="readDataFile(ArrayList&lt;String[]&gt;) : void" num="67" count="2" type="method"/>
+            <line num="69" count="2" type="stmt"/>
+            <line num="70" count="2" type="stmt"/>
+            <line num="71" count="2" type="stmt"/>
+            <line num="72" count="2" type="stmt"/>
+            <line num="74" count="2" type="stmt"/>
+            <line num="75" count="2" type="stmt"/>
+            <line num="76" count="12" type="stmt"/>
+            <line falsecount="11" truecount="1" num="76" type="cond"/>
+            <line num="77" count="1" type="stmt"/>
+            <line num="79" count="1" type="stmt"/>
+            <line num="80" count="11" type="stmt"/>
+            <line falsecount="10" truecount="1" num="80" type="cond"/>
+            <line num="81" count="1" type="stmt"/>
+            <line num="83" count="1" type="stmt"/>
+            <line num="84" count="1" type="stmt"/>
+            <line num="87" count="1" type="stmt"/>
+            <line falsecount="1" truecount="4" num="87" type="cond"/>
+            <line num="88" count="4" type="stmt"/>
+            <line falsecount="4" truecount="16" num="88" type="cond"/>
+            <line num="89" count="16" type="stmt"/>
+            <line num="90" count="16" type="stmt"/>
+            <line num="94" count="1" type="stmt"/>
+            <line num="95" count="1" type="stmt"/>
+            <line num="98" count="10" type="stmt"/>
+            <line falsecount="6" truecount="4" num="98" type="cond"/>
+            <line num="99" count="4" type="stmt"/>
+            <line num="101" count="6" type="stmt"/>
+            <line num="102" count="6" type="stmt"/>
+            <line num="104" count="6" type="stmt"/>
+            <line num="105" count="6" type="stmt"/>
+            <line complexity="2" visibility="private" signature="calIToJProbably(String,String,int) : double" num="121" count="360" type="method"/>
+            <line num="122" count="360" type="stmt"/>
+            <line num="123" count="360" type="stmt"/>
+            <line num="124" count="360" type="stmt"/>
+            <line num="125" count="360" type="stmt"/>
+            <line num="126" count="360" type="stmt"/>
+            <line num="128" count="360" type="stmt"/>
+            <line num="129" count="360" type="stmt"/>
+            <line num="131" count="360" type="stmt"/>
+            <line num="132" count="360" type="stmt"/>
+            <line num="134" count="360" type="stmt"/>
+            <line falsecount="240" truecount="120" num="134" type="cond"/>
+            <line num="135" count="120" type="stmt"/>
+            <line num="138" count="360" type="stmt"/>
+            <line num="140" count="360" type="stmt"/>
+            <line complexity="9" visibility="public" signature="selectAntNextCity(Ant,int) : String" num="148" count="300" type="method"/>
+            <line num="149" count="300" type="stmt"/>
+            <line num="150" count="300" type="stmt"/>
+            <line num="152" count="300" type="stmt"/>
+            <line num="153" count="300" type="stmt"/>
+            <line num="154" count="300" type="stmt"/>
+            <line num="156" count="300" type="stmt"/>
+            <line num="159" count="300" type="stmt"/>
+            <line falsecount="240" truecount="60" num="159" type="cond"/>
+            <line num="160" count="60" type="stmt"/>
+            <line num="162" count="60" type="stmt"/>
+            <line num="163" count="240" type="stmt"/>
+            <line falsecount="180" truecount="60" num="163" type="cond"/>
+            <line num="165" count="60" type="stmt"/>
+            <line num="167" count="60" type="stmt"/>
+            <line num="170" count="180" type="stmt"/>
+            <line num="171" count="180" type="stmt"/>
+            <line num="172" count="180" type="stmt"/>
+            <line num="174" count="180" type="stmt"/>
+            <line falsecount="180" truecount="360" num="174" type="cond"/>
+            <line num="175" count="360" type="stmt"/>
+            <line num="176" count="360" type="stmt"/>
+            <line num="177" count="360" type="stmt"/>
+            <line num="180" count="180" type="stmt"/>
+            <line falsecount="180" truecount="360" num="180" type="cond"/>
+            <line num="182" count="360" type="stmt"/>
+            <line num="186" count="180" type="stmt"/>
+            <line num="187" count="180" type="stmt"/>
+            <line num="189" count="180" type="stmt"/>
+            <line falsecount="178" truecount="2" num="189" type="cond"/>
+            <line num="190" count="2" type="stmt"/>
+            <line num="193" count="180" type="stmt"/>
+            <line num="195" count="180" type="stmt"/>
+            <line falsecount="0" truecount="284" num="195" type="cond"/>
+            <line num="196" count="284" type="stmt"/>
+            <line falsecount="104" truecount="180" num="196" type="cond"/>
+            <line num="198" count="180" type="stmt"/>
+            <line num="199" count="180" type="stmt"/>
+            <line num="201" count="104" type="stmt"/>
+            <line num="205" count="180" type="stmt"/>
+            <line complexity="2" visibility="private" signature="getPheromone(int,String,String) : double" num="216" count="360" type="method"/>
+            <line num="217" count="360" type="stmt"/>
+            <line num="218" count="360" type="stmt"/>
+            <line num="221" count="360" type="stmt"/>
+            <line num="223" count="360" type="stmt"/>
+            <line falsecount="120" truecount="240" num="223" type="cond"/>
+            <line num="224" count="240" type="stmt"/>
+            <line num="227" count="360" type="stmt"/>
+            <line complexity="4" visibility="private" signature="refreshPheromone(int) : void" num="235" count="3" type="method"/>
+            <line num="236" count="3" type="stmt"/>
+            <line num="238" count="3" type="stmt"/>
+            <line num="240" count="3" type="stmt"/>
+            <line num="241" count="3" type="stmt"/>
+            <line num="243" count="3" type="stmt"/>
+            <line num="244" count="12" type="stmt"/>
+            <line num="245" count="48" type="stmt"/>
+            <line falsecount="12" truecount="36" num="245" type="cond"/>
+            <line num="247" count="36" type="stmt"/>
+            <line num="249" count="36" type="stmt"/>
+            <line falsecount="12" truecount="24" num="249" type="cond"/>
+            <line num="250" count="24" type="stmt"/>
+            <line num="252" count="12" type="stmt"/>
+            <line num="255" count="36" type="stmt"/>
+            <line num="256" count="36" type="stmt"/>
+            <line num="257" count="720" type="stmt"/>
+            <line falsecount="240" truecount="480" num="257" type="cond"/>
+            <line num="259" count="480" type="stmt"/>
+            <line num="264" count="36" type="stmt"/>
+            <line num="265" count="36" type="stmt"/>
+            <line num="266" count="36" type="stmt"/>
+            <line complexity="3" visibility="public" signature="antStartSearching(int) : void" num="278" count="1" type="method"/>
+            <line num="280" count="1" type="stmt"/>
+            <line num="282" count="1" type="stmt"/>
+            <line num="284" count="1" type="stmt"/>
+            <line num="285" count="1" type="stmt"/>
+            <line num="286" count="1" type="stmt"/>
+            <line num="288" count="1" type="stmt"/>
+            <line falsecount="1" truecount="3" num="288" type="cond"/>
+            <line num="289" count="3" type="stmt"/>
+            <line num="291" count="3" type="stmt"/>
+            <line num="292" count="15" type="stmt"/>
+            <line num="293" count="300" type="stmt"/>
+            <line num="294" count="300" type="stmt"/>
+            <line num="298" count="15" type="stmt"/>
+            <line falsecount="12" truecount="3" num="298" type="cond"/>
+            <line num="299" count="3" type="stmt"/>
+            <line num="304" count="3" type="stmt"/>
+            <line num="305" count="3" type="stmt"/>
+            <line num="306" count="3" type="stmt"/>
+            <line num="310" count="1" type="stmt"/>
+            <line num="311" count="1" type="stmt"/>
+            <line num="312" count="1" type="stmt"/>
+            <line num="313" count="1" type="stmt"/>
+            <line num="314" count="1" type="stmt"/>
+            <line num="315" count="5" type="stmt"/>
+            <line complexity="2" visibility="private" signature="initAnts() : void" num="322" count="3" type="method"/>
+            <line num="323" count="3" type="stmt"/>
+            <line num="324" count="3" type="stmt"/>
+            <line num="325" count="3" type="stmt"/>
+            <line num="328" count="3" type="stmt"/>
+            <line falsecount="3" truecount="60" num="328" type="cond"/>
+            <line num="329" count="60" type="stmt"/>
+            <line num="330" count="60" type="stmt"/>
+            <line num="332" count="60" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\101\76\ACO\src\main\java\net\mooctest\Ant.java" name="Ant.java">
+            <metrics coveredelements="51" coveredconditionals="9" complexity="15" loc="124" coveredmethods="6" methods="6" elements="53" classes="1" ncloc="66" statements="37" conditionals="10" coveredstatements="36"/>
+            <class name="Ant">
+               <metrics coveredelements="51" coveredconditionals="9" complexity="15" coveredmethods="6" methods="6" elements="53" statements="37" conditionals="10" coveredstatements="36"/>
+            </class>
+            <line complexity="1" visibility="public" signature="Ant(double[][],ArrayList&lt;String&gt;)" num="25" count="60" type="method"/>
+            <line num="26" count="60" type="stmt"/>
+            <line num="27" count="60" type="stmt"/>
+            <line num="29" count="60" type="stmt"/>
+            <line num="30" count="60" type="stmt"/>
+            <line complexity="2" visibility="public" signature="calSumDistance() : double" num="38" count="480" type="method"/>
+            <line num="39" count="480" type="stmt"/>
+            <line num="40" count="480" type="stmt"/>
+            <line num="41" count="480" type="stmt"/>
+            <line num="43" count="480" type="stmt"/>
+            <line falsecount="480" truecount="1920" num="43" type="cond"/>
+            <line num="44" count="1920" type="stmt"/>
+            <line num="45" count="1920" type="stmt"/>
+            <line num="48" count="1920" type="stmt"/>
+            <line num="52" count="480" type="stmt"/>
+            <line complexity="1" visibility="public" signature="goToNextCity(String) : void" num="61" count="300" type="method"/>
+            <line num="62" count="300" type="stmt"/>
+            <line num="63" count="300" type="stmt"/>
+            <line num="64" count="300" type="stmt"/>
+            <line num="65" count="300" type="stmt"/>
+            <line complexity="4" visibility="public" signature="isBack() : boolean" num="73" count="15" type="method"/>
+            <line num="74" count="15" type="stmt"/>
+            <line num="75" count="15" type="stmt"/>
+            <line num="76" count="15" type="stmt"/>
+            <line num="78" count="15" type="stmt"/>
+            <line falsecount="15" truecount="0" num="78" type="cond"/>
+            <line num="79" count="0" type="stmt"/>
+            <line num="82" count="15" type="stmt"/>
+            <line num="83" count="15" type="stmt"/>
+            <line num="84" count="15" type="stmt"/>
+            <line falsecount="12" truecount="3" num="84" type="cond"/>
+            <line num="85" count="3" type="stmt"/>
+            <line num="88" count="15" type="stmt"/>
+            <line complexity="6" visibility="public" signature="pathContained(String,String) : boolean" num="100" count="720" type="method"/>
+            <line num="101" count="720" type="stmt"/>
+            <line num="102" count="720" type="stmt"/>
+            <line num="103" count="720" type="stmt"/>
+            <line num="105" count="720" type="stmt"/>
+            <line falsecount="240" truecount="2160" num="105" type="cond"/>
+            <line num="106" count="2160" type="stmt"/>
+            <line num="107" count="2160" type="stmt"/>
+            <line num="110" count="2160" type="stmt"/>
+            <line falsecount="1680" truecount="480" num="110" type="cond"/>
+            <line num="112" count="480" type="stmt"/>
+            <line num="113" count="480" type="stmt"/>
+            <line num="117" count="720" type="stmt"/>
+            <line complexity="1" visibility="public" signature="compareTo(Ant) : int" num="120" count="19" type="method"/>
+            <line num="122" count="19" type="stmt"/>
+         </file>
+      </package>
+   </project>
+   <testproject name="ACO 0.0.1-SNAPSHOT" timestamp="1711961156721">
+      <metrics coveredelements="21" complexity="2" loc="48" methods="2" classes="2" statements="19" packages="1" coveredconditionals="0" coveredmethods="2" elements="21" ncloc="37" files="2" conditionals="0" coveredstatements="19"/>
+      <package name="net.mooctest">
+         <metrics coveredelements="21" complexity="2" loc="48" methods="2" classes="2" statements="19" coveredconditionals="0" coveredmethods="2" elements="21" ncloc="37" files="2" conditionals="0" coveredstatements="19"/>
+         <file path="C:\mooctest\projects\101\76\ACO\src\test\java\net\mooctest\ACOTest.java" name="ACOTest.java">
+            <metrics coveredelements="18" coveredconditionals="0" complexity="1" loc="34" coveredmethods="1" methods="1" elements="18" classes="1" ncloc="26" statements="17" conditionals="0" coveredstatements="17"/>
+            <class name="ACOTest">
+               <metrics coveredelements="18" complexity="1" methods="1" testruns="1" statements="17" coveredconditionals="0" coveredmethods="1" elements="18" testfailures="0" testduration="0.042" conditionals="0" coveredstatements="17" testpasses="1"/>
+            </class>
+            <line complexity="1" visibility="public" signature="test() : void" num="10" testsuccess="true" count="1" testduration="0.042" type="method"/>
+            <line num="12" count="1" type="stmt"/>
+            <line num="13" count="1" type="stmt"/>
+            <line num="15" count="1" type="stmt"/>
+            <line num="16" count="1" type="stmt"/>
+            <line num="17" count="1" type="stmt"/>
+            <line num="18" count="1" type="stmt"/>
+            <line num="19" count="1" type="stmt"/>
+            <line num="20" count="1" type="stmt"/>
+            <line num="21" count="1" type="stmt"/>
+            <line num="22" count="1" type="stmt"/>
+            <line num="23" count="1" type="stmt"/>
+            <line num="24" count="1" type="stmt"/>
+            <line num="25" count="1" type="stmt"/>
+            <line num="26" count="1" type="stmt"/>
+            <line num="27" count="1" type="stmt"/>
+            <line num="28" count="1" type="stmt"/>
+            <line num="30" count="1" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\101\76\ACO\src\test\java\net\mooctest\AntTest.java" name="AntTest.java">
+            <metrics coveredelements="3" coveredconditionals="0" complexity="1" loc="14" coveredmethods="1" methods="1" elements="3" classes="1" ncloc="11" statements="2" conditionals="0" coveredstatements="2"/>
+            <class name="AntTest">
+               <metrics coveredelements="3" complexity="1" methods="1" testruns="1" statements="2" coveredconditionals="0" coveredmethods="1" elements="3" testfailures="0" testduration="0.0" conditionals="0" coveredstatements="2" testpasses="1"/>
+            </class>
+            <line complexity="1" visibility="public" signature="test() : void" num="9" testsuccess="true" count="1" testduration="0.0" type="method"/>
+            <line num="11" count="1" type="stmt"/>
+            <line num="12" count="1" type="stmt"/>
+         </file>
+      </package>
+   </testproject>
+</coverage>
