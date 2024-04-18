@@ -28,5 +28,4 @@ replay_pid*
 
 # ignore folder
 **/backup
-
-/target
+**/target
