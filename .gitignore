@@ -21,6 +21,7 @@
 *.prefs
 *.mt
 *.project
+*.zip
 
 # ignore hidden files but .gitignore
 .*
