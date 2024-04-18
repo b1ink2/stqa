@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1711961168086" clover="4.4.1">
+   <project name="Sorting 0.0.1-SNAPSHOT" timestamp="1711961165777">
+      <metrics coveredelements="76" complexity="23" loc="116" methods="8" classes="1" statements="45" packages="1" coveredconditionals="23" coveredmethods="8" elements="79" ncloc="88" files="1" conditionals="26" coveredstatements="45"/>
+      <package name="net.mooctest">
+         <metrics coveredelements="76" complexity="23" loc="116" methods="8" classes="1" statements="45" coveredconditionals="23" coveredmethods="8" elements="79" ncloc="88" files="1" conditionals="26" coveredstatements="45"/>
+         <file path="C:\mooctest\projects\101\76\Sorting\src\main\java\net\mooctest\Sorting.java" name="Sorting.java">
+            <metrics coveredelements="76" coveredconditionals="23" complexity="23" loc="116" coveredmethods="8" methods="8" elements="79" classes="1" ncloc="88" statements="45" conditionals="26" coveredstatements="45"/>
+            <class name="Sorting">
+               <metrics coveredelements="76" coveredconditionals="23" complexity="23" coveredmethods="8" methods="8" elements="79" statements="45" conditionals="26" coveredstatements="45"/>
+            </class>
+            <line complexity="4" visibility="public" signature="insertionSort(int[]) : void" num="18" count="1" type="method"/>
+            <line num="20" count="1" type="stmt"/>
+            <line num="22" count="1" type="stmt"/>
+            <line falsecount="1" truecount="3" num="22" type="cond"/>
+            <line num="24" count="3" type="stmt"/>
+            <line num="25" count="3" type="stmt"/>
+            <line falsecount="3" truecount="5" num="25" type="cond"/>
+            <line num="26" count="5" type="stmt"/>
+            <line num="27" count="3" type="stmt"/>
+            <line complexity="3" visibility="public" signature="isSorted(int[]) : boolean" num="31" count="3" type="method"/>
+            <line num="32" count="3" type="stmt"/>
+            <line falsecount="2" truecount="7" num="32" type="cond"/>
+            <line num="33" count="7" type="stmt"/>
+            <line falsecount="6" truecount="1" num="33" type="cond"/>
+            <line num="34" count="1" type="stmt"/>
+            <line num="37" count="2" type="stmt"/>
+            <line complexity="1" visibility="public" signature="quicksort(int[]) : void" num="40" count="2" type="method"/>
+            <line num="42" count="2" type="stmt"/>
+            <line complexity="1" visibility="public" signature="swapReferences(Object[],int,int) : void" num="47" count="1" type="method"/>
+            <line num="49" count="1" type="stmt"/>
+            <line num="50" count="1" type="stmt"/>
+            <line num="51" count="1" type="stmt"/>
+            <line complexity="1" visibility="public" signature="swap(int[],int,int) : void" num="53" count="10" type="method"/>
+            <line num="54" count="10" type="stmt"/>
+            <line num="55" count="10" type="stmt"/>
+            <line num="56" count="10" type="stmt"/>
+            <line complexity="4" visibility="private" signature="median3(int[],int,int) : int" num="59" count="1" type="method"/>
+            <line num="61" count="1" type="stmt"/>
+            <line num="62" count="1" type="stmt"/>
+            <line falsecount="0" truecount="1" num="62" type="cond"/>
+            <line num="63" count="1" type="stmt"/>
+            <line num="64" count="1" type="stmt"/>
+            <line falsecount="0" truecount="1" num="64" type="cond"/>
+            <line num="65" count="1" type="stmt"/>
+            <line num="66" count="1" type="stmt"/>
+            <line falsecount="0" truecount="1" num="66" type="cond"/>
+            <line num="67" count="1" type="stmt"/>
+            <line num="70" count="1" type="stmt"/>
+            <line num="71" count="1" type="stmt"/>
+            <line complexity="5" visibility="private" signature="quicksort(int[],int,int) : void" num="74" count="4" type="method"/>
+            <line num="76" count="4" type="stmt"/>
+            <line falsecount="3" truecount="1" num="76" type="cond"/>
+            <line num="78" count="1" type="stmt"/>
+            <line num="80" count="1" type="stmt"/>
+            <line num="81" count="1" type="stmt"/>
+            <line num="83" count="6" type="stmt"/>
+            <line falsecount="6" truecount="4" num="83" type="cond"/>
+            <line num="84" count="6" type="stmt"/>
+            <line falsecount="6" truecount="3" num="84" type="cond"/>
+            <line num="85" count="6" type="stmt"/>
+            <line falsecount="1" truecount="5" num="85" type="cond"/>
+            <line num="86" count="5" type="stmt"/>
+            <line num="88" count="1" type="stmt"/>
+            <line num="91" count="1" type="stmt"/>
+            <line num="93" count="1" type="stmt"/>
+            <line num="94" count="1" type="stmt"/>
+            <line num="97" count="3" type="stmt"/>
+            <line complexity="4" visibility="private" signature="insertionSort(int[],int,int) : void" num="100" count="3" type="method"/>
+            <line num="102" count="3" type="stmt"/>
+            <line falsecount="3" truecount="20" num="102" type="cond"/>
+            <line num="104" count="20" type="stmt"/>
+            <line num="105" count="20" type="stmt"/>
+            <line num="107" count="20" type="stmt"/>
+            <line falsecount="20" truecount="42" num="107" type="cond"/>
+            <line num="108" count="42" type="stmt"/>
+            <line num="109" count="20" type="stmt"/>
+         </file>
+      </package>
+   </project>
+   <testproject name="Sorting 0.0.1-SNAPSHOT" timestamp="1711961165777">
+      <metrics coveredelements="19" complexity="1" loc="37" methods="1" classes="1" statements="18" packages="1" coveredconditionals="0" coveredmethods="1" elements="19" ncloc="26" files="1" conditionals="0" coveredstatements="18"/>
+      <package name="net.mooctest">
+         <metrics coveredelements="19" complexity="1" loc="37" methods="1" classes="1" statements="18" coveredconditionals="0" coveredmethods="1" elements="19" ncloc="26" files="1" conditionals="0" coveredstatements="18"/>
+         <file path="C:\mooctest\projects\101\76\Sorting\src\test\java\net\mooctest\SortingTest.java" name="SortingTest.java">
+            <metrics coveredelements="19" coveredconditionals="0" complexity="1" loc="37" coveredmethods="1" methods="1" elements="19" classes="1" ncloc="26" statements="18" conditionals="0" coveredstatements="18"/>
+            <class name="SortingTest">
+               <metrics coveredelements="19" complexity="1" methods="1" testruns="1" statements="18" coveredconditionals="0" coveredmethods="1" elements="19" testfailures="0" testduration="0.023" conditionals="0" coveredstatements="18" testpasses="1"/>
+            </class>
+            <line complexity="1" visibility="public" signature="test() : void" num="9" testsuccess="true" count="1" testduration="0.023" type="method"/>
+            <line num="11" count="1" type="stmt"/>
+            <line num="13" count="1" type="stmt"/>
+            <line num="14" count="1" type="stmt"/>
+            <line num="15" count="1" type="stmt"/>
+            <line num="17" count="1" type="stmt"/>
+            <line num="18" count="1" type="stmt"/>
+            <line num="19" count="1" type="stmt"/>
+            <line num="21" count="1" type="stmt"/>
+            <line num="22" count="1" type="stmt"/>
+            <line num="24" count="1" type="stmt"/>
+            <line num="25" count="1" type="stmt"/>
+            <line num="26" count="1" type="stmt"/>
+            <line num="28" count="1" type="stmt"/>
+            <line num="29" count="1" type="stmt"/>
+            <line num="30" count="1" type="stmt"/>
+            <line num="33" count="1" type="stmt"/>
+            <line num="34" count="1" type="stmt"/>
+            <line num="35" count="1" type="stmt"/>
+         </file>
+      </package>
+   </testproject>
+</coverage>

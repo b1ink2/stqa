@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1710901037076" clover="4.4.1">
+   <project name="DivideTwoIntegers 0.0.1-SNAPSHOT" timestamp="1710901034406">
+      <metrics coveredelements="36" complexity="8" loc="37" methods="1" classes="1" statements="21" packages="1" coveredconditionals="14" coveredmethods="1" elements="36" ncloc="27" files="1" conditionals="14" coveredstatements="21"/>
+      <package name="net.mooctest">
+         <metrics coveredelements="36" complexity="8" loc="37" methods="1" classes="1" statements="21" coveredconditionals="14" coveredmethods="1" elements="36" ncloc="27" files="1" conditionals="14" coveredstatements="21"/>
+         <file path="C:\mooctest\projects\96\76\DivideTwoIntegers\src\main\java\net\mooctest\DivideTwoIntegers.java" name="DivideTwoIntegers.java">
+            <metrics coveredelements="36" coveredconditionals="14" complexity="8" loc="37" coveredmethods="1" methods="1" elements="36" classes="1" ncloc="27" statements="21" conditionals="14" coveredstatements="21"/>
+            <class name="DivideTwoIntegers">
+               <metrics coveredelements="36" coveredconditionals="14" complexity="8" coveredmethods="1" methods="1" elements="36" statements="21" conditionals="14" coveredstatements="21"/>
+            </class>
+            <line complexity="8" visibility="public" signature="divide(int,int) : int" num="12" count="6" type="method"/>
+            <line num="13" count="6" type="stmt"/>
+            <line num="14" count="6" type="stmt"/>
+            <line num="15" count="6" type="stmt"/>
+            <line falsecount="4" truecount="2" num="15" type="cond"/>
+            <line num="16" count="2" type="stmt"/>
+            <line num="18" count="6" type="stmt"/>
+            <line num="18" count="3" type="stmt"/>
+            <line falsecount="3" truecount="3" num="18" type="cond"/>
+            <line num="19" count="6" type="stmt"/>
+            <line falsecount="6" truecount="8" num="19" type="cond"/>
+            <line num="20" count="8" type="stmt"/>
+            <line num="21" count="8" type="stmt"/>
+            <line num="22" count="8" type="stmt"/>
+            <line falsecount="7" truecount="65" num="22" type="cond"/>
+            <line num="23" count="65" type="stmt"/>
+            <line num="23" count="1" type="stmt"/>
+            <line falsecount="64" truecount="1" num="23" type="cond"/>
+            <line num="24" count="64" type="stmt"/>
+            <line num="25" count="64" type="stmt"/>
+            <line num="27" count="8" type="stmt"/>
+            <line num="28" count="8" type="stmt"/>
+            <line num="30" count="6" type="stmt"/>
+            <line falsecount="3" truecount="3" num="30" type="cond"/>
+            <line num="31" count="3" type="stmt"/>
+            <line num="31" count="1" type="stmt"/>
+            <line falsecount="2" truecount="1" num="31" type="cond"/>
+            <line num="32" count="2" type="stmt"/>
+            <line num="34" count="5" type="stmt"/>
+         </file>
+      </package>
+   </project>
+   <testproject name="DivideTwoIntegers 0.0.1-SNAPSHOT" timestamp="1710901034406">
+      <metrics coveredelements="43" complexity="9" loc="42" methods="2" classes="1" statements="27" packages="1" coveredconditionals="14" coveredmethods="2" elements="43" ncloc="38" files="1" conditionals="14" coveredstatements="27"/>
+      <package name="net.mooctest">
+         <metrics coveredelements="43" complexity="9" loc="42" methods="2" classes="1" statements="27" coveredconditionals="14" coveredmethods="2" elements="43" ncloc="38" files="1" conditionals="14" coveredstatements="27"/>
+         <file path="C:\mooctest\projects\96\76\DivideTwoIntegers\src\test\java\net\mooctest\DivideTwoIntegersTest.java" name="DivideTwoIntegersTest.java">
+            <metrics coveredelements="43" coveredconditionals="14" complexity="9" loc="42" coveredmethods="2" methods="2" elements="43" classes="1" ncloc="38" statements="27" conditionals="14" coveredstatements="27"/>
+            <class name="DivideTwoIntegersTest">
+               <metrics coveredelements="43" complexity="9" methods="2" testruns="1" statements="27" coveredconditionals="14" coveredmethods="2" elements="43" testfailures="0" testduration="0.028" conditionals="14" coveredstatements="27" testpasses="1"/>
+            </class>
+            <line complexity="1" visibility="public" signature="test() : void" num="8" testsuccess="true" count="1" testduration="0.028" type="method"/>
+            <line num="10" count="1" type="stmt"/>
+            <line num="11" count="1" type="stmt"/>
+            <line num="12" count="1" type="stmt"/>
+            <line num="13" count="1" type="stmt"/>
+            <line num="14" count="1" type="stmt"/>
+            <line num="15" count="1" type="stmt"/>
+            <line complexity="8" visibility="public" signature="divideOri(int,int) : int" num="18" count="6" type="method"/>
+            <line num="19" count="6" type="stmt"/>
+            <line num="20" count="6" type="stmt"/>
+            <line num="21" count="6" type="stmt"/>
+            <line falsecount="4" truecount="2" num="21" type="cond"/>
+            <line num="22" count="2" type="stmt"/>
+            <line num="24" count="6" type="stmt"/>
+            <line num="24" count="3" type="stmt"/>
+            <line falsecount="3" truecount="3" num="24" type="cond"/>
+            <line num="25" count="6" type="stmt"/>
+            <line falsecount="6" truecount="8" num="25" type="cond"/>
+            <line num="26" count="8" type="stmt"/>
+            <line num="27" count="8" type="stmt"/>
+            <line num="28" count="8" type="stmt"/>
+            <line falsecount="7" truecount="65" num="28" type="cond"/>
+            <line num="29" count="65" type="stmt"/>
+            <line num="29" count="1" type="stmt"/>
+            <line falsecount="64" truecount="1" num="29" type="cond"/>
+            <line num="30" count="64" type="stmt"/>
+            <line num="31" count="64" type="stmt"/>
+            <line num="33" count="8" type="stmt"/>
+            <line num="34" count="8" type="stmt"/>
+            <line num="36" count="6" type="stmt"/>
+            <line falsecount="3" truecount="3" num="36" type="cond"/>
+            <line num="37" count="3" type="stmt"/>
+            <line num="37" count="1" type="stmt"/>
+            <line falsecount="2" truecount="1" num="37" type="cond"/>
+            <line num="38" count="2" type="stmt"/>
+            <line num="40" count="5" type="stmt"/>
+         </file>
+      </package>
+   </testproject>
+</coverage>

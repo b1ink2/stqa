@@ -1,0 +1,899 @@
+FileState	2024-04-10-08-16-51	1712708211530	Timer
+Part	2024-04-10-08-17-03	Sorting.java	opened
+Part	2024-04-10-08-17-03	SortingTest.java	deactivated
+Part	2024-04-10-08-17-03	Sorting.java	activated
+Part	2024-04-10-08-17-03	Sorting.java	broughtToTop
+Part	2024-04-10-08-17-03	SortingTest.java	closed
+Part	2024-04-10-08-17-05	ACO.java	opened
+Part	2024-04-10-08-17-05	Sorting.java	deactivated
+Part	2024-04-10-08-17-05	ACO.java	activated
+Part	2024-04-10-08-17-05	ACO.java	broughtToTop
+Part	2024-04-10-08-17-05	Sorting.java	closed
+Part	2024-04-10-08-17-05	Ant.java	opened
+Part	2024-04-10-08-17-05	Ant.java	broughtToTop
+Part	2024-04-10-08-17-05	ACO.java	deactivated
+Part	2024-04-10-08-17-06	Ant.java	activated
+Part	2024-04-10-08-17-07	ACO.java	closed
+Part	2024-04-10-08-17-08	Ant.java	deactivated
+Part	2024-04-10-08-17-08	MoocTest	activated
+Part	2024-04-10-08-17-08	Ant.java	closed
+Part	2024-04-10-08-17-08	Package Explorer	opened
+Part	2024-04-10-08-17-09	Package Explorer	broughtToTop
+FileChange	2024-04-10-08-17-18	Add C:\mooctest\projects\103\76\Calculator\src\main\java\net\mooctest\Calculator.java
+FileChange	2024-04-10-08-17-18	Add C:\mooctest\projects\103\76\Calculator\src\main\java\net\mooctest\CommandNotFoundException.java
+FileChange	2024-04-10-08-17-18	Add C:\mooctest\projects\103\76\Calculator\src\main\java\net\mooctest\ExpressionParser.java
+FileChange	2024-04-10-08-17-18	Add C:\mooctest\projects\103\76\Calculator\src\main\java\net\mooctest\ExpressionParserException.java
+FileChange	2024-04-10-08-17-18	Add C:\mooctest\projects\103\76\Calculator\src\main\java\net\mooctest\FunctionNotFoundException.java
+FileChange	2024-04-10-08-17-18	Add C:\mooctest\projects\103\76\Calculator\src\main\java\net\mooctest\MathParser.java
+FileChange	2024-04-10-08-17-18	Add C:\mooctest\projects\103\76\Calculator\src\main\java\net\mooctest\MissingOperandException.java
+FileChange	2024-04-10-08-17-18	Add C:\mooctest\projects\103\76\Calculator\src\main\java\net\mooctest\NullExpressionException.java
+FileChange	2024-04-10-08-17-18	Add C:\mooctest\projects\103\76\Calculator\src\main\java\net\mooctest\UnmatchedBracketsException.java
+FileChange	2024-04-10-08-17-18	Add C:\mooctest\projects\103\76\Calculator\src\main\java\net\mooctest\VariableNotFoundException.java
+FileChange	2024-04-10-08-17-18	Add C:\mooctest\projects\103\76\Calculator\src\test\java\net\mooctest\CalculatorTest.java
+FileState	2024-04-10-08-17-51	1712708271530	Timer
+FileChange	2024-04-10-08-18-34	Add C:\mooctest\projects\103\76\Schedule\src\main\java\net\mooctest\Schedule.java
+FileChange	2024-04-10-08-18-34	Add C:\mooctest\projects\103\76\Schedule\src\main\java\net\mooctest\Work.java
+FileChange	2024-04-10-08-18-34	Add C:\mooctest\projects\103\76\Schedule\src\test\java\net\mooctest\ScheduleTest.java
+FileState	2024-04-10-08-18-51	1712708331530	Timer
+Part	2024-04-10-08-19-49	MoocTest	deactivated
+Part	2024-04-10-08-19-49	Package Explorer	activated
+FileState	2024-04-10-08-19-51	1712708391531	Timer
+Part	2024-04-10-08-19-56	CalculatorTest.java	opened
+Part	2024-04-10-08-19-57	CalculatorTest.java	broughtToTop
+Part	2024-04-10-08-19-57	Package Explorer	deactivated
+CaretPosition	2024-04-10-08-19-57	CalculatorTest.java	1
+Part	2024-04-10-08-19-57	CalculatorTest.java	activated
+FileState	2024-04-10-08-19-57	1712708397101	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+Part	2024-04-10-08-19-57	CalculatorTest.java	deactivated
+Part	2024-04-10-08-19-57	Package Explorer	activated
+Part	2024-04-10-08-20-05	Calculator.java	opened
+Part	2024-04-10-08-20-06	Calculator.java	broughtToTop
+Part	2024-04-10-08-20-06	Package Explorer	deactivated
+CaretPosition	2024-04-10-08-20-06	Calculator.java	1
+Part	2024-04-10-08-20-06	Calculator.java	activated
+FileState	2024-04-10-08-20-06	1712708406139	ActiveEditor	Calculator/src/main/java/net/mooctest/Calculator.java
+Part	2024-04-10-08-20-08	Calculator.java	deactivated
+Part	2024-04-10-08-20-08	CalculatorTest.java	broughtToTop
+CaretPosition	2024-04-10-08-20-08	CalculatorTest.java	1
+Part	2024-04-10-08-20-08	CalculatorTest.java	activated
+FileState	2024-04-10-08-20-08	1712708408484	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+Part	2024-04-10-08-20-10	CalculatorTest.java	deactivated
+Part	2024-04-10-08-20-10	Calculator.java	broughtToTop
+CaretPosition	2024-04-10-08-20-10	Calculator.java	1
+Part	2024-04-10-08-20-10	Calculator.java	activated
+FileState	2024-04-10-08-20-10	1712708410298	ActiveEditor	Calculator/src/main/java/net/mooctest/Calculator.java
+FileState	2024-04-10-08-20-51	1712708451531	Timer
+CaretPosition	2024-04-10-08-21-39	Calculator.java	87
+FileState	2024-04-10-08-21-51	1712708511532	Timer
+CaretPosition	2024-04-10-08-22-00	Calculator.java	155
+Part	2024-04-10-08-22-18	Calculator.java	deactivated
+Part	2024-04-10-08-22-18	Package Explorer	activated
+Part	2024-04-10-08-22-32	CalculatorTest.java	broughtToTop
+Part	2024-04-10-08-22-32	Package Explorer	deactivated
+CaretPosition	2024-04-10-08-22-32	CalculatorTest.java	1
+Part	2024-04-10-08-22-32	CalculatorTest.java	activated
+FileState	2024-04-10-08-22-32	1712708552234	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+Part	2024-04-10-08-22-36	CalculatorTest.java	deactivated
+Part	2024-04-10-08-22-36	Calculator.java	broughtToTop
+CaretPosition	2024-04-10-08-22-36	Calculator.java	155
+Part	2024-04-10-08-22-36	Calculator.java	activated
+FileState	2024-04-10-08-22-36	1712708556391	ActiveEditor	Calculator/src/main/java/net/mooctest/Calculator.java
+FileState	2024-04-10-08-22-51	1712708571533	Timer
+Part	2024-04-10-08-23-04	Calculator.java	deactivated
+Part	2024-04-10-08-23-04	CalculatorTest.java	broughtToTop
+CaretPosition	2024-04-10-08-23-04	CalculatorTest.java	1
+Part	2024-04-10-08-23-04	CalculatorTest.java	activated
+FileState	2024-04-10-08-23-04	1712708584372	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+CaretPosition	2024-04-10-08-23-06	CalculatorTest.java	3
+CaretPosition	2024-04-10-08-23-08	CalculatorTest.java	11
+Part	2024-04-10-08-23-18	JUnit	opened
+Part	2024-04-10-08-23-18	JUnit	broughtToTop
+Part	2024-04-10-08-23-18	CalculatorTest.java	deactivated
+Part	2024-04-10-08-23-18	Coverage	opened
+Part	2024-04-10-08-23-18	Coverage	broughtToTop
+Part	2024-04-10-08-23-19	Console (No consoles to display at this time.)	opened
+Part	2024-04-10-08-23-19	Console (No consoles to display at this time.)	broughtToTop
+Part	2024-04-10-08-23-28	JUnit (CalculatorTest)	closed
+CaretPosition	2024-04-10-08-23-28	CalculatorTest.java	11
+Part	2024-04-10-08-23-28	CalculatorTest.java	activated
+FileState	2024-04-10-08-23-28	1712708608631	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+CaretPosition	2024-04-10-08-23-30	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-23-33	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-23-38	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-23-41	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-23-42	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-23-44	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-23-46	CalculatorTest.java	12
+FileState	2024-04-10-08-23-51	1712708631534	Timer
+Part	2024-04-10-08-23-52	CalculatorTest.java	deactivated
+Part	2024-04-10-08-23-52	Calculator.java	broughtToTop
+CaretPosition	2024-04-10-08-23-52	Calculator.java	155
+Part	2024-04-10-08-23-52	Calculator.java	activated
+FileState	2024-04-10-08-23-52	1712708632551	ActiveEditor	Calculator/src/main/java/net/mooctest/Calculator.java
+CaretPosition	2024-04-10-08-24-02	Calculator.java	40
+Part	2024-04-10-08-24-04	Calculator.java	deactivated
+Part	2024-04-10-08-24-04	CalculatorTest.java	broughtToTop
+CaretPosition	2024-04-10-08-24-04	CalculatorTest.java	12
+Part	2024-04-10-08-24-04	CalculatorTest.java	activated
+FileState	2024-04-10-08-24-04	1712708644072	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+CaretPosition	2024-04-10-08-24-06	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-24-07	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-24-08	CalculatorTest.java	13
+CaretPosition	2024-04-10-08-24-12	CalculatorTest.java	13
+CaretPosition	2024-04-10-08-24-14	CalculatorTest.java	13
+CaretPosition	2024-04-10-08-24-14	CalculatorTest.java	13
+CaretPosition	2024-04-10-08-24-16	CalculatorTest.java	13
+CaretPosition	2024-04-10-08-24-18	CalculatorTest.java	13
+FileChange	2024-04-10-08-24-24	C:\mooctest\projects\103\76\Calculator\src\test\java\net\mooctest\CalculatorTest.java	[InsertDelta, position: 11, lines: [      Calculator.parseCommand("help");,       Calculator.parseCommand("exit");]]	
+Part	2024-04-10-08-24-25	JUnit	opened
+Part	2024-04-10-08-24-25	JUnit	broughtToTop
+Part	2024-04-10-08-24-25	CalculatorTest.java	deactivated
+Part	2024-04-10-08-24-26	Coverage	broughtToTop
+Part	2024-04-10-08-24-26	Console (<terminated> CalculatorTest [JUnit] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:24:24))	broughtToTop
+CaretPosition	2024-04-10-08-24-28	CalculatorTest.java	13
+Part	2024-04-10-08-24-28	CalculatorTest.java	activated
+FileState	2024-04-10-08-24-28	1712708668097	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+Part	2024-04-10-08-24-28	Coverage (CalculatorTest (2024-4-10 8:24:25))	broughtToTop
+Part	2024-04-10-08-24-28	CalculatorTest.java	deactivated
+Part	2024-04-10-08-24-28	Coverage (CalculatorTest (2024-4-10 8:24:25))	activated
+Part	2024-04-10-08-24-49	Coverage (CalculatorTest (2024-4-10 8:24:25))	deactivated
+Part	2024-04-10-08-24-49	JUnit (Finished after 0.04 seconds)	closed
+Part	2024-04-10-08-24-49	Coverage (CalculatorTest (2024-4-10 8:24:25))	activated
+FileState	2024-04-10-08-24-51	1712708691534	Timer
+Part	2024-04-10-08-24-52	Calculator.java	broughtToTop
+Part	2024-04-10-08-24-52	Coverage (CalculatorTest (2024-4-10 8:24:25))	deactivated
+CaretPosition	2024-04-10-08-24-52	Calculator.java	40
+Part	2024-04-10-08-24-52	Calculator.java	activated
+FileState	2024-04-10-08-24-52	1712708692922	ActiveEditor	Calculator/src/main/java/net/mooctest/Calculator.java
+Part	2024-04-10-08-25-02	Calculator.java	deactivated
+Part	2024-04-10-08-25-02	CalculatorTest.java	broughtToTop
+CaretPosition	2024-04-10-08-25-02	CalculatorTest.java	13
+Part	2024-04-10-08-25-02	CalculatorTest.java	activated
+FileState	2024-04-10-08-25-02	1712708702967	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+CaretPosition	2024-04-10-08-25-04	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-25-08	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-25-09	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-25-10	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-25-11	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-25-15	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-25-17	CalculatorTest.java	14
+Part	2024-04-10-08-25-18	CalculatorTest.java	deactivated
+Part	2024-04-10-08-25-18	Calculator.java	broughtToTop
+CaretPosition	2024-04-10-08-25-18	Calculator.java	40
+Part	2024-04-10-08-25-18	Calculator.java	activated
+FileState	2024-04-10-08-25-18	1712708718824	ActiveEditor	Calculator/src/main/java/net/mooctest/Calculator.java
+Part	2024-04-10-08-25-19	CalculatorTest.java	broughtToTop
+Part	2024-04-10-08-25-19	Calculator.java	deactivated
+CaretPosition	2024-04-10-08-25-19	CalculatorTest.java	14
+Part	2024-04-10-08-25-19	CalculatorTest.java	activated
+FileState	2024-04-10-08-25-19	1712708719611	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+Part	2024-04-10-08-25-19	CalculatorTest.java	deactivated
+CaretPosition	2024-04-10-08-25-19	Calculator.java	40
+Part	2024-04-10-08-25-19	Calculator.java	activated
+FileState	2024-04-10-08-25-19	1712708719697	ActiveEditor	Calculator/src/main/java/net/mooctest/Calculator.java
+Part	2024-04-10-08-25-24	Calculator.java	deactivated
+CaretPosition	2024-04-10-08-25-24	CalculatorTest.java	14
+Part	2024-04-10-08-25-24	CalculatorTest.java	activated
+FileState	2024-04-10-08-25-24	1712708724649	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+CaretPosition	2024-04-10-08-25-26	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-25-31	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-25-32	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-25-33	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-25-34	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-25-36	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-25-39	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-25-41	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-25-49	CalculatorTest.java	15
+FileState	2024-04-10-08-25-51	1712708751535	Timer
+CaretPosition	2024-04-10-08-25-52	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-25-54	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-25-55	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-25-56	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-25-58	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-26-00	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-26-01	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-26-02	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-26-08	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-26-09	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-26-11	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-26-13	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-26-15	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-26-15	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-26-18	CalculatorTest.java	19
+CaretPosition	2024-04-10-08-26-20	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-26-22	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-26-28	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-26-30	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-26-32	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-26-33	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-26-45	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-26-46	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-26-48	CalculatorTest.java	17
+FileState	2024-04-10-08-26-51	1712708811535	Timer
+CaretPosition	2024-04-10-08-26-51	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-26-53	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-26-54	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-26-59	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-27-01	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-27-03	CalculatorTest.java	18
+CaretPosition	2024-04-10-08-27-16	CalculatorTest.java	18
+CaretPosition	2024-04-10-08-27-17	CalculatorTest.java	18
+CaretPosition	2024-04-10-08-27-20	CalculatorTest.java	18
+CaretPosition	2024-04-10-08-27-22	CalculatorTest.java	18
+CaretPosition	2024-04-10-08-27-25	CalculatorTest.java	18
+CaretPosition	2024-04-10-08-27-28	CalculatorTest.java	18
+CaretPosition	2024-04-10-08-27-33	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-27-34	CalculatorTest.java	17
+FileChange	2024-04-10-08-27-38	C:\mooctest\projects\103\76\Calculator\src\test\java\net\mooctest\CalculatorTest.java	[InsertDelta, position: 13, lines: [      Calculator.parseCommand("help vars");,       Calculator.parseCommand("help funcs");,       Calculator.parseCommand("help cmds");,       Calculator.parseCommand("list vars");,       Calculator.parseCommand("None");]]	
+Part	2024-04-10-08-27-38	JUnit	opened
+Part	2024-04-10-08-27-38	JUnit	broughtToTop
+Part	2024-04-10-08-27-38	CalculatorTest.java	deactivated
+Part	2024-04-10-08-27-39	Console (<terminated> CalculatorTest [JUnit] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:27:38))	broughtToTop
+Part	2024-04-10-08-27-43	JUnit (Finished after 0.061 seconds)	closed
+CaretPosition	2024-04-10-08-27-43	CalculatorTest.java	17
+Part	2024-04-10-08-27-43	CalculatorTest.java	activated
+FileState	2024-04-10-08-27-43	1712708863148	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+Part	2024-04-10-08-27-44	Coverage (CalculatorTest (2024-4-10 8:27:39))	broughtToTop
+Part	2024-04-10-08-27-44	CalculatorTest.java	deactivated
+Part	2024-04-10-08-27-45	Coverage (CalculatorTest (2024-4-10 8:27:39))	activated
+Part	2024-04-10-08-27-46	Coverage (CalculatorTest (2024-4-10 8:27:39))	deactivated
+Part	2024-04-10-08-27-46	Package Explorer	activated
+Part	2024-04-10-08-27-47	Package Explorer	deactivated
+Part	2024-04-10-08-27-48	Coverage (CalculatorTest (2024-4-10 8:27:39))	activated
+FileState	2024-04-10-08-27-51	1712708871548	Timer
+Part	2024-04-10-08-28-14	Coverage (CalculatorTest (2024-4-10 8:27:39))	deactivated
+CaretPosition	2024-04-10-08-28-15	Calculator.java	40
+Part	2024-04-10-08-28-15	Calculator.java	activated
+FileState	2024-04-10-08-28-15	1712708895036	ActiveEditor	Calculator/src/main/java/net/mooctest/Calculator.java
+CaretPosition	2024-04-10-08-28-15	Calculator.java	153
+FileState	2024-04-10-08-28-51	1712708931553	Timer
+FileState	2024-04-10-08-29-51	1712708991562	Timer
+FileState	2024-04-10-08-30-51	1712709051577	Timer
+Part	2024-04-10-08-31-37	Calculator.java	deactivated
+CaretPosition	2024-04-10-08-31-37	CalculatorTest.java	17
+Part	2024-04-10-08-31-37	CalculatorTest.java	activated
+FileState	2024-04-10-08-31-37	1712709097466	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+CaretPosition	2024-04-10-08-31-38	CalculatorTest.java	18
+FileState	2024-04-10-08-31-51	1712709111591	Timer
+CaretPosition	2024-04-10-08-32-20	CalculatorTest.java	11
+CaretPosition	2024-04-10-08-32-21	CalculatorTest.java	11
+CaretPosition	2024-04-10-08-32-31	CalculatorTest.java	11
+CaretPosition	2024-04-10-08-32-33	CalculatorTest.java	11
+CaretPosition	2024-04-10-08-32-35	CalculatorTest.java	11
+CaretPosition	2024-04-10-08-32-46	CalculatorTest.java	11
+CaretPosition	2024-04-10-08-32-47	CalculatorTest.java	11
+CaretPosition	2024-04-10-08-32-48	CalculatorTest.java	11
+CaretPosition	2024-04-10-08-32-50	CalculatorTest.java	11
+CaretPosition	2024-04-10-08-32-51	CalculatorTest.java	11
+FileState	2024-04-10-08-32-51	1712709171593	Timer
+CaretPosition	2024-04-10-08-32-52	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-32-56	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-32-58	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-33-00	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-33-04	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-33-07	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-33-07	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-33-08	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-33-09	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-33-12	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-33-17	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-33-21	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-33-22	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-33-23	CalculatorTest.java	12
+CaretPosition	2024-04-10-08-33-24	CalculatorTest.java	13
+CaretPosition	2024-04-10-08-33-27	CalculatorTest.java	13
+CaretPosition	2024-04-10-08-33-28	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-33-31	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-33-32	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-33-34	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-33-36	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-33-40	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-33-40	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-33-43	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-33-44	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-33-45	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-33-48	CalculatorTest.java	14
+CaretPosition	2024-04-10-08-33-49	CalculatorTest.java	15
+FileState	2024-04-10-08-33-51	1712709231595	Timer
+CaretPosition	2024-04-10-08-33-57	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-02	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-04	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-06	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-07	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-11	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-13	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-14	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-15	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-16	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-18	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-20	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-21	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-29	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-34-40	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-41	CalculatorTest.java	15
+CaretPosition	2024-04-10-08-34-45	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-34-49	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-34-50	CalculatorTest.java	16
+FileState	2024-04-10-08-34-51	1712709291602	Timer
+CaretPosition	2024-04-10-08-34-52	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-34-55	CalculatorTest.java	16
+CaretPosition	2024-04-10-08-34-57	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-34-59	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-35-02	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-35-03	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-35-04	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-35-08	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-35-09	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-35-13	CalculatorTest.java	17
+CaretPosition	2024-04-10-08-35-14	CalculatorTest.java	18
+CaretPosition	2024-04-10-08-35-17	CalculatorTest.java	19
+CaretPosition	2024-04-10-08-35-20	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-21	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-22	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-24	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-25	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-25	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-29	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-30	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-35	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-36	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-37	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-38	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-41	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-42	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-43	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-44	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-49	CalculatorTest.java	20
+CaretPosition	2024-04-10-08-35-50	CalculatorTest.java	21
+FileState	2024-04-10-08-35-51	1712709351608	Timer
+CaretPosition	2024-04-10-08-35-53	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-35-54	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-35-56	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-35-57	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-35-58	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-35-59	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-36-00	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-36-02	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-36-05	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-36-06	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-36-08	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-36-09	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-36-12	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-36-13	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-36-21	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-36-24	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-36-28	CalculatorTest.java	23
+CaretPosition	2024-04-10-08-36-29	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-36-30	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-36-33	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-36-34	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-36-46	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-36-49	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-36-49	CalculatorTest.java	22
+FileState	2024-04-10-08-36-51	1712709411616	Timer
+CaretPosition	2024-04-10-08-36-55	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-36-57	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-36-58	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-37-00	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-37-01	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-37-06	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-37-09	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-37-15	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-37-17	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-37-17	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-37-18	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-37-19	CalculatorTest.java	22
+CaretPosition	2024-04-10-08-37-20	CalculatorTest.java	23
+CaretPosition	2024-04-10-08-37-25	CalculatorTest.java	23
+CaretPosition	2024-04-10-08-37-29	CalculatorTest.java	23
+CaretPosition	2024-04-10-08-37-33	CalculatorTest.java	23
+CaretPosition	2024-04-10-08-37-35	CalculatorTest.java	23
+CaretPosition	2024-04-10-08-37-38	CalculatorTest.java	23
+CaretPosition	2024-04-10-08-37-39	CalculatorTest.java	23
+CaretPosition	2024-04-10-08-37-40	CalculatorTest.java	23
+CaretPosition	2024-04-10-08-37-43	CalculatorTest.java	23
+CaretPosition	2024-04-10-08-37-44	CalculatorTest.java	23
+CaretPosition	2024-04-10-08-37-45	CalculatorTest.java	24
+CaretPosition	2024-04-10-08-37-46	CalculatorTest.java	24
+CaretPosition	2024-04-10-08-37-47	CalculatorTest.java	24
+FileState	2024-04-10-08-37-51	1712709471629	Timer
+CaretPosition	2024-04-10-08-37-51	CalculatorTest.java	24
+CaretPosition	2024-04-10-08-37-53	CalculatorTest.java	24
+CaretPosition	2024-04-10-08-37-54	CalculatorTest.java	24
+CaretPosition	2024-04-10-08-37-55	CalculatorTest.java	24
+CaretPosition	2024-04-10-08-37-56	CalculatorTest.java	24
+CaretPosition	2024-04-10-08-37-59	CalculatorTest.java	24
+CaretPosition	2024-04-10-08-37-59	CalculatorTest.java	24
+CaretPosition	2024-04-10-08-38-01	CalculatorTest.java	24
+CaretPosition	2024-04-10-08-38-03	CalculatorTest.java	24
+CaretPosition	2024-04-10-08-38-05	CalculatorTest.java	25
+CaretPosition	2024-04-10-08-38-06	CalculatorTest.java	25
+CaretPosition	2024-04-10-08-38-08	CalculatorTest.java	26
+CaretPosition	2024-04-10-08-38-12	CalculatorTest.java	26
+CaretPosition	2024-04-10-08-38-13	CalculatorTest.java	26
+CaretPosition	2024-04-10-08-38-14	CalculatorTest.java	26
+CaretPosition	2024-04-10-08-38-18	CalculatorTest.java	26
+CaretPosition	2024-04-10-08-38-20	CalculatorTest.java	26
+CaretPosition	2024-04-10-08-38-25	CalculatorTest.java	26
+CaretPosition	2024-04-10-08-38-27	CalculatorTest.java	26
+CaretPosition	2024-04-10-08-38-28	CalculatorTest.java	26
+CaretPosition	2024-04-10-08-38-31	CalculatorTest.java	26
+CaretPosition	2024-04-10-08-38-32	CalculatorTest.java	26
+CaretPosition	2024-04-10-08-38-36	CalculatorTest.java	27
+CaretPosition	2024-04-10-08-38-38	CalculatorTest.java	27
+CaretPosition	2024-04-10-08-38-41	CalculatorTest.java	27
+CaretPosition	2024-04-10-08-38-43	CalculatorTest.java	27
+CaretPosition	2024-04-10-08-38-43	CalculatorTest.java	27
+CaretPosition	2024-04-10-08-38-46	CalculatorTest.java	27
+CaretPosition	2024-04-10-08-38-47	CalculatorTest.java	27
+CaretPosition	2024-04-10-08-38-48	CalculatorTest.java	27
+CaretPosition	2024-04-10-08-38-49	CalculatorTest.java	27
+FileState	2024-04-10-08-38-51	1712709531643	Timer
+CaretPosition	2024-04-10-08-38-52	CalculatorTest.java	27
+CaretPosition	2024-04-10-08-38-53	CalculatorTest.java	27
+CaretPosition	2024-04-10-08-38-54	CalculatorTest.java	27
+CaretPosition	2024-04-10-08-38-55	CalculatorTest.java	28
+CaretPosition	2024-04-10-08-38-57	CalculatorTest.java	28
+CaretPosition	2024-04-10-08-38-58	CalculatorTest.java	28
+FileChange	2024-04-10-08-39-04	C:\mooctest\projects\103\76\Calculator\src\test\java\net\mooctest\CalculatorTest.java	[ChangeDelta, position: 10, lines: [      Calculator.parseCommand("list funcs");,       Calculator.parseCommand("help");,       Calculator.parseCommand("exit");,       Calculator.parseCommand("help vars");,       Calculator.parseCommand("help funcs");,       Calculator.parseCommand("help cmds");,       Calculator.parseCommand("list vars");,       Calculator.parseCommand("None");] to [      Calculator c1 = new Calculator();,       Calculator.expParser = new ExpressionParser(3);,       try {,     	  Calculator.evaluate("x + y");,       } catch (MissingOperandException e) {,     	  e.getOperator();,     	  e.printStackTrace();,       },       ,       Calculator.expParser.addVariable("$", "x");,       Calculator.expParser.addVariable("x", "3");,       Calculator.expParser.parseVariables("x");,       Calculator.expParser.addVariable("x", "2");,       Calculator.expParser.evaluate("y = 1");,       try {,     	  Calculator.expParser.evaluate("y = 1.x");,       } catch (Exception e) {,     	  e.printStackTrace();,       }]]	
+Part	2024-04-10-08-39-04	JUnit	opened
+Part	2024-04-10-08-39-04	JUnit	broughtToTop
+Part	2024-04-10-08-39-04	CalculatorTest.java	deactivated
+Part	2024-04-10-08-39-05	Console (<terminated> CalculatorTest [JUnit] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:39:04))	broughtToTop
+CaretPosition	2024-04-10-08-39-10	CalculatorTest.java	28
+Part	2024-04-10-08-39-10	CalculatorTest.java	activated
+FileState	2024-04-10-08-39-10	1712709550074	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+Part	2024-04-10-08-39-10	Coverage (CalculatorTest (2024-4-10 8:39:05))	broughtToTop
+Part	2024-04-10-08-39-10	CalculatorTest.java	deactivated
+Part	2024-04-10-08-39-10	Coverage (CalculatorTest (2024-4-10 8:39:05))	activated
+Part	2024-04-10-08-39-16	Coverage (CalculatorTest (2024-4-10 8:39:05))	deactivated
+CaretPosition	2024-04-10-08-39-16	Calculator.java	153
+Part	2024-04-10-08-39-16	Calculator.java	activated
+FileState	2024-04-10-08-39-16	1712709556542	ActiveEditor	Calculator/src/main/java/net/mooctest/Calculator.java
+Part	2024-04-10-08-39-17	Calculator.java	deactivated
+Part	2024-04-10-08-39-17	JUnit (Finished after 0.049 seconds)	closed
+CaretPosition	2024-04-10-08-39-17	Calculator.java	153
+Part	2024-04-10-08-39-17	Calculator.java	activated
+FileState	2024-04-10-08-39-17	1712709557676	ActiveEditor	Calculator/src/main/java/net/mooctest/Calculator.java
+Part	2024-04-10-08-39-19	Calculator.java	deactivated
+CaretPosition	2024-04-10-08-39-19	CalculatorTest.java	28
+Part	2024-04-10-08-39-19	CalculatorTest.java	activated
+FileState	2024-04-10-08-39-19	1712709559132	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+Part	2024-04-10-08-39-22	CalculatorTest.java	deactivated
+Part	2024-04-10-08-39-22	PIT Mutations	opened
+Part	2024-04-10-08-39-22	PIT Mutations	broughtToTop
+Part	2024-04-10-08-39-22	PIT Mutations	deactivated
+Part	2024-04-10-08-39-22	PIT Mutations	activated
+Part	2024-04-10-08-39-22	PIT Mutations	activated
+Part	2024-04-10-08-39-23	Console (CalculatorTest (1) [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:39:22))	broughtToTop
+Part	2024-04-10-08-39-29	PIT Mutations	deactivated
+Part	2024-04-10-08-39-30	PIT Summary	opened
+Part	2024-04-10-08-39-30	PIT Summary	broughtToTop
+Part	2024-04-10-08-39-30	PIT Summary	activated
+Part	2024-04-10-08-39-30	PIT Summary	deactivated
+Part	2024-04-10-08-39-30	Console (CalculatorTest (1) [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:39:22))	broughtToTop
+CaretPosition	2024-04-10-08-39-30	Console (CalculatorTest (1) [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:39:22))	1
+Part	2024-04-10-08-39-30	Console (CalculatorTest (1) [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:39:22))	activated
+Part	2024-04-10-08-39-34	Console (<terminated> CalculatorTest (1) [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:39:22))	deactivated
+Part	2024-04-10-08-39-34	PIT Mutations	activated
+Part	2024-04-10-08-39-34	PIT Mutations	deactivated
+CaretPosition	2024-04-10-08-39-34	Console (<terminated> CalculatorTest (1) [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:39:22))	1
+Part	2024-04-10-08-39-34	Console (<terminated> CalculatorTest (1) [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:39:22))	activated
+Part	2024-04-10-08-39-34	PIT Mutations	closed
+Part	2024-04-10-08-39-37	Console (<terminated> CalculatorTest (1) [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:39:22))	deactivated
+Part	2024-04-10-08-39-37	PIT Summary	broughtToTop
+Part	2024-04-10-08-39-37	PIT Summary	activated
+FileState	2024-04-10-08-39-51	1712709591658	Timer
+FileState	2024-04-10-08-40-51	1712709651663	Timer
+FileState	2024-04-10-08-41-51	1712709711666	Timer
+Part	2024-04-10-08-41-53	PIT Summary	deactivated
+Part	2024-04-10-08-41-53	Package Explorer	activated
+Part	2024-04-10-08-41-58	Package Explorer	deactivated
+CaretPosition	2024-04-10-08-41-58	CalculatorTest.java	28
+Part	2024-04-10-08-41-58	CalculatorTest.java	activated
+FileState	2024-04-10-08-41-58	1712709718119	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+CaretPosition	2024-04-10-08-41-58	CalculatorTest.java	31
+Part	2024-04-10-08-42-01	Problems	opened
+CaretPosition	2024-04-10-08-42-01	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-42-01	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-42-02	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-42-04	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-42-23	CalculatorTest.java	21
+CaretPosition	2024-04-10-08-42-26	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-42-28	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-42-31	CalculatorTest.java	1
+FileState	2024-04-10-08-42-51	1712709771676	Timer
+CaretPosition	2024-04-10-08-43-22	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-43-43	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-43-48	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-43-50	CalculatorTest.java	1
+FileState	2024-04-10-08-43-51	1712709831684	Timer
+CaretPosition	2024-04-10-08-44-10	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-44-10	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-44-22	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-44-24	CalculatorTest.java	1
+FileState	2024-04-10-08-44-51	1712709891690	Timer
+CaretPosition	2024-04-10-08-45-07	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-45-08	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-45-17	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-45-18	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-45-20	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-45-25	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-45-26	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-45-28	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-45-29	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-45-37	CalculatorTest.java	1
+FileState	2024-04-10-08-45-51	1712709951698	Timer
+Part	2024-04-10-08-46-46	CalculatorTest.java	deactivated
+Part	2024-04-10-08-46-47	Package Explorer	activated
+Part	2024-04-10-08-46-48	Package Explorer	deactivated
+CaretPosition	2024-04-10-08-46-48	CalculatorTest.java	1
+Part	2024-04-10-08-46-48	CalculatorTest.java	activated
+FileState	2024-04-10-08-46-48	1712710008258	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+CaretPosition	2024-04-10-08-46-49	CalculatorTest.java	135
+FileState	2024-04-10-08-46-51	1712710011704	Timer
+FileChange	2024-04-10-08-46-54	C:\mooctest\projects\103\76\Calculator\src\test\java\net\mooctest\CalculatorTest.java	[InsertDelta, position: 0, lines: [Caculator]]	[DeleteDelta, position: 2, lines: [import static org.junit.Assert.*;, ]]	[ChangeDelta, position: 8, lines: [  @Test(timeout = 4000),   public void test00()  throws Throwable  {,       Calculator c1 = new Calculator();,       Calculator.expParser = new ExpressionParser(3);,       try {,     	  Calculator.evaluate("x + y");,       } catch (MissingOperandException e) {,     	  e.getOperator();,     	  e.printStackTrace();,       },       ,       Calculator.expParser.addVariable("$", "x");,       Calculator.expParser.addVariable("x", "3");,       Calculator.expParser.parseVariables("x");,       Calculator.expParser.addVariable("x", "2");,       Calculator.expParser.evaluate("y = 1");,       try {,     	  Calculator.expParser.evaluate("y = 1.x");,       } catch (Exception e) {,     	  e.printStackTrace();,       },   }] to [    @Test(timeout = 4000),     public void test00() throws Throwable {,     	Calculator cac=new Calculator();,         Calculator.expParser = new ExpressionParser(3);,         try {,             Calculator.evaluate("x + y");,         } catch (MissingOperandException e) {,             e.getOperator();,             e.printStackTrace();,         }, ,         Calculator.expParser.addVariable("$","x");, ,         Calculator.expParser.addVariable("x", "3");,         Calculator.expParser.parseVariables("x");,         Calculator.expParser.addVariable("x", "2");,         Calculator.expParser.evaluate("y = 1");,         try {,             Calculator.expParser.evaluate("y = 1.x");,         }catch (Exception e){,             e.printStackTrace();,         },     }, ,     @Test(timeout = 4000),     public void test01() throws Throwable {,         Calculator.parseCommand("list funcs");,         Calculator.parseCommand("list vars");,         Calculator.parseCommand("list");,         Calculator.parseCommand("list cmds");,         Calculator.parseCommand("help cmds");,         Calculator.parseCommand("help funcs");,         Calculator.parseCommand("help vars");,         Calculator.parseCommand("help");,         Calculator.parseCommand("exit");,         try {,             Calculator.parseCommand("test");,         } catch (CommandNotFoundException e) {,             e.getCommand();,             e.printStackTrace();,         },     }, ,     @Test(timeout = 4000),     public void test02() throws Throwable {,         Calculator.evaluate("1^1");,         Calculator.evaluate("1%1");,         Calculator.evaluate("1/1");,         Calculator.evaluate("1*1.111");,         Calculator.evaluate("1+1");,         Calculator.evaluate("1-(1*1)");,         Calculator.evaluate("(1 - 2 + 3) - 5");, ,         Calculator.evaluate("sin[1]");,         Calculator.evaluate("cos[1]");,         Calculator.evaluate("tan[1]");,         Calculator.evaluate("csc[1]");,         Calculator.evaluate("sec[1]");,         Calculator.evaluate("ctn[1]");,         Calculator.evaluate("rad[1]");,         Calculator.evaluate("deg[1]");,         Calculator.evaluate("fct[1]");,         Calculator.evaluate("fct[11]");,         Calculator.evaluate("abs[1]");,         Calculator.evaluate("exp[1]");,         Calculator.evaluate("log[1]");, ,         Calculator.evaluate("-log[1]");,         try {,             Calculator.evaluate("test[1]");,         } catch (FunctionNotFoundException e) {,             e.getFunc();,             e.printStackTrace();,         },         try {,             Calculator.evaluate("log[]");,         } catch (MissingOperandException e) {,             e.getFaultyExpression();,             e.printStackTrace();,         },         try {,             Calculator.evaluate("log[");,         } catch (UnmatchedBracketsException e) {,             e.getFaultyExpression();,             e.printStackTrace();,         },         try {,             Calculator.evaluate("log[(1+1]");,         } catch (UnmatchedBracketsException e) {,             e.getFaultyExpression();,             e.getIndexOfBracket();,             e.printStackTrace();,         },         try {,             Calculator.evaluate("log[<a>]");,         } catch (VariableNotFoundException e) {,             e.getFaultyExpression();,             e.getVar();,             e.printStackTrace();,         },     }, ,     @Test(timeout = 4000),     public void test03() throws Throwable {,         try {,             Calculator.evaluate("");,         } catch (NullExpressionException e) {,             e.getFaultyExpression();,             e.printStackTrace();,         },         try {,             Calculator.evaluate("(1+1");,         } catch (UnmatchedBracketsException e) {,             e.getFaultyExpression();,             e.getIndexOfBracket();,             e.printStackTrace();,         },         try {,             Calculator.evaluate("<a>+<b>");,         } catch (VariableNotFoundException e) {,             e.getFaultyExpression();,             e.getVar();,             e.printStackTrace();,         },         // fixed,         VariableNotFoundException e = new VariableNotFoundException("x");,     }]]	
+Part	2024-04-10-08-46-59	JUnit	opened
+Part	2024-04-10-08-46-59	JUnit	broughtToTop
+Part	2024-04-10-08-46-59	CalculatorTest.java	deactivated
+Part	2024-04-10-08-47-00	Coverage (CalculatorTest (2024-4-10 8:39:05))	broughtToTop
+Part	2024-04-10-08-47-02	JUnit (Finished after 0.035 seconds)	closed
+CaretPosition	2024-04-10-08-47-02	CalculatorTest.java	135
+Part	2024-04-10-08-47-02	CalculatorTest.java	activated
+FileState	2024-04-10-08-47-02	1712710022694	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+Part	2024-04-10-08-47-23	Problems (1 error, 10 warnings, 0 others)	broughtToTop
+Part	2024-04-10-08-47-23	CalculatorTest.java	deactivated
+Part	2024-04-10-08-47-23	Problems (1 error, 10 warnings, 0 others)	activated
+Part	2024-04-10-08-47-26	Problems (1 error, 10 warnings, 0 others)	deactivated
+CaretPosition	2024-04-10-08-47-26	CalculatorTest.java	135
+Part	2024-04-10-08-47-26	CalculatorTest.java	activated
+FileState	2024-04-10-08-47-26	1712710046741	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+CaretPosition	2024-04-10-08-47-27	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-47-29	CalculatorTest.java	1
+CaretPosition	2024-04-10-08-47-30	CalculatorTest.java	1
+FileChange	2024-04-10-08-47-34	C:\mooctest\projects\103\76\Calculator\src\test\java\net\mooctest\CalculatorTest.java	[DeleteDelta, position: 0, lines: [Caculator]]	
+Part	2024-04-10-08-47-34	JUnit	opened
+Part	2024-04-10-08-47-34	JUnit	broughtToTop
+Part	2024-04-10-08-47-35	CalculatorTest.java	deactivated
+Part	2024-04-10-08-47-35	Coverage (CalculatorTest (2024-4-10 8:47:00))	broughtToTop
+Part	2024-04-10-08-47-36	Console (<terminated> CalculatorTest [JUnit] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:47:34))	broughtToTop
+Part	2024-04-10-08-47-37	JUnit (Finished after 0.081 seconds)	closed
+CaretPosition	2024-04-10-08-47-38	CalculatorTest.java	1
+Part	2024-04-10-08-47-38	CalculatorTest.java	activated
+FileState	2024-04-10-08-47-38	1712710058136	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+FileState	2024-04-10-08-47-51	1712710071708	Timer
+Part	2024-04-10-08-47-58	PIT Summary	broughtToTop
+Part	2024-04-10-08-47-58	CalculatorTest.java	deactivated
+Part	2024-04-10-08-47-58	PIT Summary	activated
+Part	2024-04-10-08-48-20	PIT Summary	deactivated
+Part	2024-04-10-08-48-20	Coverage (CalculatorTest (2024-4-10 8:47:35))	broughtToTop
+Part	2024-04-10-08-48-20	Coverage (CalculatorTest (2024-4-10 8:47:35))	activated
+Part	2024-04-10-08-48-36	Coverage (CalculatorTest (2024-4-10 8:47:35))	deactivated
+Part	2024-04-10-08-48-36	Package Explorer	activated
+Part	2024-04-10-08-48-42	Package Explorer	deactivated
+CaretPosition	2024-04-10-08-48-42	CalculatorTest.java	1
+Part	2024-04-10-08-48-42	CalculatorTest.java	activated
+FileState	2024-04-10-08-48-42	1712710122713	ActiveEditor	Calculator/src/test/java/net/mooctest/CalculatorTest.java
+Part	2024-04-10-08-48-42	CalculatorTest.java	deactivated
+CaretPosition	2024-04-10-08-48-42	Calculator.java	153
+Part	2024-04-10-08-48-42	Calculator.java	activated
+FileState	2024-04-10-08-48-42	1712710122957	ActiveEditor	Calculator/src/main/java/net/mooctest/Calculator.java
+Part	2024-04-10-08-48-42	CalculatorTest.java	closed
+Part	2024-04-10-08-48-44	Calculator.java	deactivated
+Part	2024-04-10-08-48-44	Package Explorer	activated
+Part	2024-04-10-08-48-44	Calculator.java	closed
+FileState	2024-04-10-08-48-51	1712710131711	Timer
+Part	2024-04-10-08-48-52	ScheduleTest.java	opened
+Part	2024-04-10-08-48-52	ScheduleTest.java	broughtToTop
+Part	2024-04-10-08-48-52	Package Explorer	deactivated
+CaretPosition	2024-04-10-08-48-52	ScheduleTest.java	1
+Part	2024-04-10-08-48-52	ScheduleTest.java	activated
+FileState	2024-04-10-08-48-52	1712710132522	ActiveEditor	Schedule/src/test/java/net/mooctest/ScheduleTest.java
+Part	2024-04-10-08-48-55	ScheduleTest.java	deactivated
+Part	2024-04-10-08-48-55	Package Explorer	activated
+Part	2024-04-10-08-49-00	Schedule.java	opened
+Part	2024-04-10-08-49-00	Schedule.java	broughtToTop
+Part	2024-04-10-08-49-00	Package Explorer	deactivated
+CaretPosition	2024-04-10-08-49-00	Schedule.java	1
+Part	2024-04-10-08-49-00	Schedule.java	activated
+FileState	2024-04-10-08-49-00	1712710140316	ActiveEditor	Schedule/src/main/java/net/mooctest/Schedule.java
+Part	2024-04-10-08-49-01	Schedule.java	deactivated
+Part	2024-04-10-08-49-01	Package Explorer	activated
+Part	2024-04-10-08-49-01	Work.java	opened
+Part	2024-04-10-08-49-01	Work.java	broughtToTop
+Part	2024-04-10-08-49-01	Package Explorer	deactivated
+CaretPosition	2024-04-10-08-49-01	Work.java	1
+Part	2024-04-10-08-49-01	Work.java	activated
+FileState	2024-04-10-08-49-01	1712710141932	ActiveEditor	Schedule/src/main/java/net/mooctest/Work.java
+Part	2024-04-10-08-49-05	Work.java	deactivated
+Part	2024-04-10-08-49-05	ScheduleTest.java	broughtToTop
+CaretPosition	2024-04-10-08-49-05	ScheduleTest.java	1
+Part	2024-04-10-08-49-05	ScheduleTest.java	activated
+FileState	2024-04-10-08-49-05	1712710145809	ActiveEditor	Schedule/src/test/java/net/mooctest/ScheduleTest.java
+CaretPosition	2024-04-10-08-49-13	ScheduleTest.java	12
+CaretPosition	2024-04-10-08-49-14	ScheduleTest.java	11
+CaretPosition	2024-04-10-08-49-46	ScheduleTest.java	1
+CaretPosition	2024-04-10-08-49-47	ScheduleTest.java	55
+FileState	2024-04-10-08-49-51	1712710191716	Timer
+FileChange	2024-04-10-08-49-55	C:\mooctest\projects\103\76\Schedule\src\test\java\net\mooctest\ScheduleTest.java	[InsertDelta, position: 4, lines: [import java.util.Arrays;, import java.util.List;, ]]	[ChangeDelta, position: 8, lines: [	@Test, 	public void test() {, 		new Schedule();, 	}] to [    @Test,     public void test() {,         Schedule schedule = new Schedule();,         ,         List<Work> works0 = Arrays.asList(); //绌轰綔涓?,         ,         List<Work> works = Arrays.asList( ,             new Work("A", 0, 7),,             new Work("B", 1, 5),,             new Work("C", 2, 3),             );]]	[InsertDelta, position: 13, lines: [        List<Work> works1 = Arrays.asList( ,             new Work("A", 0, 7),,             new Work("B", 0, 5),,             new Work("C", 0, 3),             );,         ,         List<Work> works2 = Arrays.asList( //,             new Work("A", -1, -7),             );,         ,         List<Double> results0 = schedule.FCFS(works0);,         ,         List<Double> results = schedule.FCFS(works); //FCFS,        ,         List<Double> results1 = schedule.SJF(works); ,         ,         List<Double> results2 = schedule.SJF(works1); //SJF锛屽悓鏃跺埌杈?,         ,         List<Double> results3 = schedule.SJF(works2);,                ,         assertEquals(10.33, results.get(0), 0.01); // 骞冲潎鍛ㄨ浆鏃堕棿,         assertEquals(2.51, results.get(1), 0.01); // 骞冲潎甯︽潈鍛ㄨ浆鏃堕棿,         ,         assertEquals(9.67, results1.get(0), 0.01); // 骞冲潎鍛ㄨ浆鏃堕棿,         assertEquals(2.16, results1.get(1), 0.01); // 骞冲潎甯︽潈鍛ㄨ浆鏃堕棿,         ,         assertEquals(8.67, results2.get(0), 0.01); // 骞冲潎鍛ㄨ浆鏃堕棿,         assertEquals(1.58, results2.get(1), 0.01); // 骞冲潎甯︽潈鍛ㄨ浆鏃堕棿,         ,     }, ]]	
+Part	2024-04-10-08-49-55	Console (ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:49:55))	broughtToTop
+Part	2024-04-10-08-50-13	PIT Summary	broughtToTop
+Part	2024-04-10-08-50-13	ScheduleTest.java	deactivated
+Part	2024-04-10-08-50-13	PIT Summary	activated
+Part	2024-04-10-08-50-18	PIT Summary	deactivated
+Part	2024-04-10-08-50-18	Coverage (CalculatorTest (2024-4-10 8:47:35))	broughtToTop
+Part	2024-04-10-08-50-18	Coverage (CalculatorTest (2024-4-10 8:47:35))	activated
+Part	2024-04-10-08-50-23	Coverage (CalculatorTest (2024-4-10 8:47:35))	deactivated
+Part	2024-04-10-08-50-23	Console (ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:49:55))	broughtToTop
+CaretPosition	2024-04-10-08-50-23	Console (ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:49:55))	1
+Part	2024-04-10-08-50-23	Console (ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:49:55))	activated
+Part	2024-04-10-08-50-40	Console (<terminated> ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:49:55))	deactivated
+Part	2024-04-10-08-50-40	PIT Summary	broughtToTop
+Part	2024-04-10-08-50-40	PIT Summary	activated
+FileState	2024-04-10-08-50-51	1712710251730	Timer
+Part	2024-04-10-08-50-55	PIT Summary	deactivated
+CaretPosition	2024-04-10-08-50-55	ScheduleTest.java	55
+Part	2024-04-10-08-50-55	ScheduleTest.java	activated
+FileState	2024-04-10-08-50-55	1712710255625	ActiveEditor	Schedule/src/test/java/net/mooctest/ScheduleTest.java
+CaretPosition	2024-04-10-08-50-57	ScheduleTest.java	10
+CaretPosition	2024-04-10-08-51-08	ScheduleTest.java	9
+FileState	2024-04-10-08-51-51	1712710311744	Timer
+FileState	2024-04-10-08-52-51	1712710371758	Timer
+FileState	2024-04-10-08-53-51	1712710431763	Timer
+FileState	2024-04-10-08-54-51	1712710491773	Timer
+FileState	2024-04-10-08-55-51	1712710551775	Timer
+FileState	2024-04-10-08-56-51	1712710611786	Timer
+FileState	2024-04-10-08-57-51	1712710671800	Timer
+FileState	2024-04-10-08-58-51	1712710731802	Timer
+FileState	2024-04-10-08-59-51	1712710791806	Timer
+CaretPosition	2024-04-10-09-00-04	ScheduleTest.java	43
+FileState	2024-04-10-09-00-51	1712710851806	Timer
+Part	2024-04-10-09-00-56	Package Explorer	closed
+Part	2024-04-10-09-00-56	Problems (0 errors, 13 warnings, 0 others)	closed
+Part	2024-04-10-09-00-56	Console (<terminated> ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午8:49:55))	closed
+Part	2024-04-10-09-00-56	Coverage (CalculatorTest (2024-4-10 8:47:35))	closed
+Part	2024-04-10-09-00-56	MoocTest	closed
+Part	2024-04-10-09-00-56	PIT Summary	closed
+Part	2024-04-10-09-00-56	Schedule.java	closed
+Part	2024-04-10-09-00-56	Work.java	closed
+Part	2024-04-10-09-00-56	ScheduleTest.java	deactivated
+Part	2024-04-10-09-00-56	ScheduleTest.java	closed
+FileState	2024-04-10-09-07-53	1712711273534	Timer
+FileState	2024-04-10-09-08-53	1712711333533	Timer
+FileState	2024-04-10-09-09-53	1712711393533	Timer
+Part	2024-04-10-09-10-42	Package Explorer	deactivated
+CaretPosition	2024-04-10-09-10-42	ScheduleTest.java	43
+CaretPosition	2024-04-10-09-10-42	ScheduleTest.java	43
+Part	2024-04-10-09-10-42	ScheduleTest.java	activated
+Part	2024-04-10-09-10-45	ScheduleTest.java	deactivated
+Part	2024-04-10-09-10-45	PIT Mutations	opened
+Part	2024-04-10-09-10-45	PIT Mutations	broughtToTop
+Part	2024-04-10-09-10-45	PIT Mutations	deactivated
+Part	2024-04-10-09-10-46	PIT Mutations	activated
+Part	2024-04-10-09-10-46	PIT Mutations	activated
+Part	2024-04-10-09-10-46	Console (No consoles to display at this time.)	opened
+Part	2024-04-10-09-10-46	Console (No consoles to display at this time.)	broughtToTop
+FileState	2024-04-10-09-10-53	1712711453533	Timer
+Part	2024-04-10-09-10-56	PIT Mutations	deactivated
+CaretPosition	2024-04-10-09-10-56	ScheduleTest.java	43
+Part	2024-04-10-09-10-56	ScheduleTest.java	activated
+CaretPosition	2024-04-10-09-10-57	ScheduleTest.java	38
+Part	2024-04-10-09-10-58	ScheduleTest.java	deactivated
+Part	2024-04-10-09-10-58	PIT Mutations	activated
+Part	2024-04-10-09-11-26	PIT Mutations	deactivated
+Part	2024-04-10-09-11-26	PIT Summary	broughtToTop
+Part	2024-04-10-09-11-26	PIT Summary	activated
+Part	2024-04-10-09-11-26	PIT Summary	deactivated
+Part	2024-04-10-09-11-26	Console (ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:10:45))	broughtToTop
+CaretPosition	2024-04-10-09-11-26	Console (ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:10:45))	1
+Part	2024-04-10-09-11-26	Console (ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:10:45))	activated
+Part	2024-04-10-09-11-36	Console (<terminated> ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:10:45))	deactivated
+Part	2024-04-10-09-11-36	PIT Mutations	activated
+Part	2024-04-10-09-11-36	PIT Mutations	deactivated
+CaretPosition	2024-04-10-09-11-36	Console (<terminated> ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:10:45))	1
+Part	2024-04-10-09-11-36	Console (<terminated> ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:10:45))	activated
+Part	2024-04-10-09-11-36	PIT Mutations	closed
+Part	2024-04-10-09-11-46	Console (<terminated> ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:10:45))	deactivated
+Part	2024-04-10-09-11-46	PIT Summary	broughtToTop
+Part	2024-04-10-09-11-46	PIT Summary	activated
+Part	2024-04-10-09-11-48	Coverage	opened
+Part	2024-04-10-09-11-48	Coverage	broughtToTop
+Part	2024-04-10-09-11-48	PIT Summary	deactivated
+Part	2024-04-10-09-11-48	Coverage	activated
+Part	2024-04-10-09-11-53	Coverage	deactivated
+FileState	2024-04-10-09-11-53	1712711513533	Timer
+CaretPosition	2024-04-10-09-11-53	ScheduleTest.java	38
+Part	2024-04-10-09-11-53	ScheduleTest.java	activated
+CaretPosition	2024-04-10-09-11-54	ScheduleTest.java	43
+Part	2024-04-10-09-12-01	Package Explorer	closed
+Part	2024-04-10-09-12-01	Console (<terminated> ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:10:45))	closed
+Part	2024-04-10-09-12-01	PIT Summary	closed
+Part	2024-04-10-09-12-01	Coverage	closed
+Part	2024-04-10-09-12-02	ScheduleTest.java	deactivated
+Part	2024-04-10-09-12-02	ScheduleTest.java	closed
+FileState	2024-04-10-09-18-38	1712711918327	Timer
+FileState	2024-04-10-09-19-38	1712711978325	Timer
+FileState	2024-04-10-09-20-38	1712712038325	Timer
+FileState	2024-04-10-09-21-38	1712712098326	Timer
+FileState	2024-04-10-09-22-44	1712712164815	Timer
+Part	2024-04-10-09-23-03	ScheduleTest.java	deactivated
+Part	2024-04-10-09-23-03	Package Explorer	activated
+Part	2024-04-10-09-23-12	CalculatorTest.java	opened
+Part	2024-04-10-09-23-12	CalculatorTest.java	broughtToTop
+Part	2024-04-10-09-23-12	Package Explorer	deactivated
+CaretPosition	2024-04-10-09-23-12	CalculatorTest.java	1
+Part	2024-04-10-09-23-12	CalculatorTest.java	activated
+CaretPosition	2024-04-10-09-23-18	CalculatorTest.java	1
+FileState	2024-04-10-09-23-44	1712712224814	Timer
+CaretPosition	2024-04-10-09-23-58	CalculatorTest.java	40
+Part	2024-04-10-09-24-01	CalculatorTest.java	deactivated
+Part	2024-04-10-09-24-01	PIT Mutations	opened
+Part	2024-04-10-09-24-01	PIT Mutations	broughtToTop
+Part	2024-04-10-09-24-01	PIT Mutations	deactivated
+Part	2024-04-10-09-24-01	PIT Mutations	activated
+Part	2024-04-10-09-24-01	PIT Mutations	activated
+Part	2024-04-10-09-24-01	Console (No consoles to display at this time.)	opened
+Part	2024-04-10-09-24-01	Console (No consoles to display at this time.)	broughtToTop
+Part	2024-04-10-09-24-05	PIT Mutations	deactivated
+Part	2024-04-10-09-24-05	PIT Summary	opened
+Part	2024-04-10-09-24-05	PIT Summary	broughtToTop
+Part	2024-04-10-09-24-05	PIT Summary	activated
+Part	2024-04-10-09-24-08	PIT Summary	deactivated
+Part	2024-04-10-09-24-08	PIT Mutations	activated
+Part	2024-04-10-09-24-08	PIT Mutations	deactivated
+Part	2024-04-10-09-24-08	PIT Summary	activated
+Part	2024-04-10-09-24-08	PIT Mutations	closed
+Part	2024-04-10-09-24-14	PIT Summary	deactivated
+CaretPosition	2024-04-10-09-24-14	CalculatorTest.java	40
+Part	2024-04-10-09-24-14	CalculatorTest.java	activated
+Part	2024-04-10-09-24-21	Console (CalculatorTest (1) [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:24:20))	broughtToTop
+Part	2024-04-10-09-24-34	PIT Summary	broughtToTop
+Part	2024-04-10-09-24-34	CalculatorTest.java	deactivated
+Part	2024-04-10-09-24-34	PIT Summary	activated
+FileState	2024-04-10-09-24-44	1712712284815	Timer
+Part	2024-04-10-09-24-59	ScheduleTest.java	broughtToTop
+Part	2024-04-10-09-24-59	PIT Summary	deactivated
+CaretPosition	2024-04-10-09-24-59	ScheduleTest.java	46
+Part	2024-04-10-09-24-59	ScheduleTest.java	activated
+Part	2024-04-10-09-25-04	Schedule.java	opened
+Part	2024-04-10-09-25-04	Schedule.java	broughtToTop
+Part	2024-04-10-09-25-04	ScheduleTest.java	deactivated
+CaretPosition	2024-04-10-09-25-04	Schedule.java	1
+Part	2024-04-10-09-25-04	Schedule.java	activated
+CaretPosition	2024-04-10-09-25-05	Schedule.java	1
+Part	2024-04-10-09-25-06	Schedule.java	deactivated
+Part	2024-04-10-09-25-06	CalculatorTest.java	broughtToTop
+CaretPosition	2024-04-10-09-25-06	CalculatorTest.java	40
+Part	2024-04-10-09-25-06	CalculatorTest.java	activated
+FileState	2024-04-10-09-34-10	1712712850618	Timer
+Part	2024-04-10-09-34-24	JUnit	opened
+Part	2024-04-10-09-34-24	JUnit	broughtToTop
+Part	2024-04-10-09-34-24	MoocTest	deactivated
+Part	2024-04-10-09-34-25	Coverage (CalculatorTest (2024-4-10 9:33:44))	broughtToTop
+Part	2024-04-10-09-34-25	Console (CalculatorTest [JUnit] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:34:23))	broughtToTop
+Part	2024-04-10-09-34-28	JUnit (Finished after 0.137 seconds)	closed
+Part	2024-04-10-09-34-34	Progress	opened
+Part	2024-04-10-09-34-34	Progress	broughtToTop
+Part	2024-04-10-09-34-34	Progress	activated
+Part	2024-04-10-09-34-35	Progress	deactivated
+Part	2024-04-10-09-34-35	Coverage (CalculatorTest (2024-4-10 9:34:25))	broughtToTop
+Part	2024-04-10-09-34-36	Coverage (CalculatorTest (2024-4-10 9:34:25))	activated
+Part	2024-04-10-09-34-40	Coverage (CalculatorTest (2024-4-10 9:34:25))	deactivated
+Part	2024-04-10-09-34-40	Package Explorer	activated
+Part	2024-04-10-09-34-46	ScheduleTest.java	broughtToTop
+Part	2024-04-10-09-34-46	Package Explorer	deactivated
+CaretPosition	2024-04-10-09-34-46	ScheduleTest.java	43
+Part	2024-04-10-09-34-46	ScheduleTest.java	activated
+CaretPosition	2024-04-10-09-34-49	ScheduleTest.java	19
+CaretPosition	2024-04-10-09-35-08	ScheduleTest.java	33
+FileState	2024-04-10-09-35-10	1712712910624	Timer
+CaretPosition	2024-04-10-09-35-11	ScheduleTest.java	44
+CaretPosition	2024-04-10-09-35-12	ScheduleTest.java	51
+FileChange	2024-04-10-09-35-18	C:\mooctest\projects\103\76\Schedule\src\test\java\net\mooctest\ScheduleTest.java	[ChangeDelta, position: 15, lines: [        List<Work> works0 = Arrays.asList(); //绌轰綔涓?] to [        List<Work> works0 = Arrays.asList(); //绌轰綔涓?]]	[ChangeDelta, position: 39, lines: [        List<Double> results2 = schedule.SJF(works1); //SJF锛屽悓鏃跺埌杈?] to [        List<Double> results2 = schedule.SJF(works1); //SJF锛屽悓鏃跺埌杈?]]	
+Part	2024-04-10-09-35-18	Console (ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:35:18))	broughtToTop
+Part	2024-04-10-09-35-59	ScheduleTest.java	deactivated
+Part	2024-04-10-09-35-59	PIT Summary	broughtToTop
+Part	2024-04-10-09-35-59	PIT Summary	activated
+Part	2024-04-10-09-36-00	PIT Summary	deactivated
+Part	2024-04-10-09-36-00	Console (<terminated> ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:35:18))	broughtToTop
+CaretPosition	2024-04-10-09-36-00	Console (<terminated> ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:35:18))	1
+Part	2024-04-10-09-36-00	Console (<terminated> ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:35:18))	activated
+Part	2024-04-10-09-36-03	Console (ScheduleTest [PIT Mutation Test] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:35:42))	deactivated
+CaretPosition	2024-04-10-09-36-03	ScheduleTest.java	51
+Part	2024-04-10-09-36-03	ScheduleTest.java	activated
+CaretPosition	2024-04-10-09-36-07	ScheduleTest.java	28
+FileState	2024-04-10-09-36-10	1712712970626	Timer
+Part	2024-04-10-09-36-45	ScheduleTest.java	deactivated
+Part	2024-04-10-09-36-45	CalculatorTest.java	broughtToTop
+CaretPosition	2024-04-10-09-36-45	CalculatorTest.java	116
+Part	2024-04-10-09-36-45	CalculatorTest.java	activated
+CaretPosition	2024-04-10-09-36-48	CalculatorTest.java	42
+Part	2024-04-10-09-36-56	Problems	opened
+CaretPosition	2024-04-10-09-36-56	CalculatorTest.java	8
+CaretPosition	2024-04-10-09-36-59	CalculatorTest.java	39
+FileState	2024-04-10-09-37-10	1712713030640	Timer
+FileState	2024-04-10-09-38-10	1712713090645	Timer
+FileState	2024-04-10-09-39-10	1712713150659	Timer
+CaretPosition	2024-04-10-09-39-25	CalculatorTest.java	100
+Part	2024-04-10-09-39-38	Schedule.java	opened
+Part	2024-04-10-09-39-38	Schedule.java	broughtToTop
+Part	2024-04-10-09-39-38	CalculatorTest.java	deactivated
+CaretPosition	2024-04-10-09-39-38	Schedule.java	1
+Part	2024-04-10-09-39-38	Schedule.java	activated
+CaretPosition	2024-04-10-09-39-38	Schedule.java	1
+Part	2024-04-10-09-39-42	Schedule.java	deactivated
+Part	2024-04-10-09-39-42	ScheduleTest.java	broughtToTop
+CaretPosition	2024-04-10-09-39-42	ScheduleTest.java	28
+Part	2024-04-10-09-39-42	ScheduleTest.java	activated
+Part	2024-04-10-09-39-46	ScheduleTest.java	deactivated
+Part	2024-04-10-09-39-46	CalculatorTest.java	broughtToTop
+CaretPosition	2024-04-10-09-39-46	CalculatorTest.java	100
+Part	2024-04-10-09-39-46	CalculatorTest.java	activated
+CaretPosition	2024-04-10-09-39-49	CalculatorTest.java	79
+CaretPosition	2024-04-10-09-39-49	CalculatorTest.java	78
+CaretPosition	2024-04-10-09-39-51	CalculatorTest.java	78
+CaretPosition	2024-04-10-09-39-53	CalculatorTest.java	78
+CaretPosition	2024-04-10-09-39-55	CalculatorTest.java	78
+CaretPosition	2024-04-10-09-40-01	CalculatorTest.java	78
+CaretPosition	2024-04-10-09-40-03	CalculatorTest.java	78
+CaretPosition	2024-04-10-09-40-03	CalculatorTest.java	80
+CaretPosition	2024-04-10-09-40-05	CalculatorTest.java	78
+CaretPosition	2024-04-10-09-40-06	CalculatorTest.java	78
+CaretPosition	2024-04-10-09-40-07	CalculatorTest.java	85
+CaretPosition	2024-04-10-09-40-08	CalculatorTest.java	84
+CaretPosition	2024-04-10-09-40-09	CalculatorTest.java	84
+FileState	2024-04-10-09-40-10	1712713210675	Timer
+CaretPosition	2024-04-10-09-40-11	CalculatorTest.java	90
+CaretPosition	2024-04-10-09-40-12	CalculatorTest.java	90
+CaretPosition	2024-04-10-09-40-15	CalculatorTest.java	96
+CaretPosition	2024-04-10-09-40-16	CalculatorTest.java	96
+CaretPosition	2024-04-10-09-40-18	CalculatorTest.java	103
+CaretPosition	2024-04-10-09-40-21	CalculatorTest.java	103
+CaretPosition	2024-04-10-09-40-23	CalculatorTest.java	114
+CaretPosition	2024-04-10-09-40-24	CalculatorTest.java	114
+CaretPosition	2024-04-10-09-40-26	CalculatorTest.java	120
+CaretPosition	2024-04-10-09-40-27	CalculatorTest.java	120
+CaretPosition	2024-04-10-09-40-29	CalculatorTest.java	128
+CaretPosition	2024-04-10-09-40-30	CalculatorTest.java	127
+CaretPosition	2024-04-10-09-40-31	CalculatorTest.java	127
+FileChange	2024-04-10-09-40-32	C:\mooctest\projects\103\76\Calculator\src\test\java\net\mooctest\CalculatorTest.java	[ChangeDelta, position: 77, lines: [            e.getFunc();,             e.printStackTrace();] to [//            e.getFunc();, //            e.printStackTrace();]]	[ChangeDelta, position: 83, lines: [            e.getFaultyExpression();,             e.printStackTrace();] to [//            e.getFaultyExpression();, //            e.printStackTrace();]]	[ChangeDelta, position: 89, lines: [            e.getFaultyExpression();,             e.printStackTrace();] to [//            e.getFaultyExpression();, //            e.printStackTrace();]]	[ChangeDelta, position: 95, lines: [            e.getFaultyExpression();,             e.getIndexOfBracket();,             e.printStackTrace();] to [//            e.getFaultyExpression();, //            e.getIndexOfBracket();, //            e.printStackTrace();]]	[ChangeDelta, position: 102, lines: [            e.getFaultyExpression();,             e.getVar();,             e.printStackTrace();] to [//            e.getFaultyExpression();, //            e.getVar();, //            e.printStackTrace();]]	[ChangeDelta, position: 113, lines: [            e.getFaultyExpression();,             e.printStackTrace();] to [//            e.getFaultyExpression();, //            e.printStackTrace();]]	[ChangeDelta, position: 119, lines: [            e.getFaultyExpression();,             e.getIndexOfBracket();,             e.printStackTrace();] to [//            e.getFaultyExpression();, //            e.getIndexOfBracket();, //            e.printStackTrace();]]	[ChangeDelta, position: 126, lines: [            e.getFaultyExpression();,             e.getVar();,             e.printStackTrace();] to [//            e.getFaultyExpression();, //            e.getVar();, //            e.printStackTrace();]]	[DeleteDelta, position: 130, lines: [        // fixed]]	
+CaretPosition	2024-04-10-09-40-34	CalculatorTest.java	120
+CaretPosition	2024-04-10-09-40-41	CalculatorTest.java	130
+CaretPosition	2024-04-10-09-40-42	CalculatorTest.java	129
+CaretPosition	2024-04-10-09-40-43	CalculatorTest.java	131
+CaretPosition	2024-04-10-09-40-47	CalculatorTest.java	131
+CaretPosition	2024-04-10-09-40-52	CalculatorTest.java	45
+CaretPosition	2024-04-10-09-40-54	CalculatorTest.java	45
+CaretPosition	2024-04-10-09-40-58	CalculatorTest.java	27
+CaretPosition	2024-04-10-09-41-00	CalculatorTest.java	27
+CaretPosition	2024-04-10-09-41-03	CalculatorTest.java	14
+CaretPosition	2024-04-10-09-41-04	CalculatorTest.java	14
+FileChange	2024-04-10-09-41-05	C:\mooctest\projects\103\76\Calculator\src\test\java\net\mooctest\CalculatorTest.java	[ChangeDelta, position: 13, lines: [            e.getOperator();,             e.printStackTrace();] to [//            e.getOperator();, //            e.printStackTrace();]]	[ChangeDelta, position: 26, lines: [            e.printStackTrace();] to [//            e.printStackTrace();]]	[ChangeDelta, position: 44, lines: [            e.getCommand();,             e.printStackTrace();] to [//            e.getCommand();, //            e.printStackTrace();]]	
+CaretPosition	2024-04-10-09-41-06	CalculatorTest.java	14
+CaretPosition	2024-04-10-09-41-10	CalculatorTest.java	31
+FileState	2024-04-10-09-41-10	1712713270686	Timer
+CaretPosition	2024-04-10-09-41-20	CalculatorTest.java	115
+Part	2024-04-10-09-41-22	Coverage (CalculatorTest (2024-4-10 9:34:25))	broughtToTop
+Part	2024-04-10-09-41-22	CalculatorTest.java	deactivated
+Part	2024-04-10-09-41-22	Coverage (CalculatorTest (2024-4-10 9:34:25))	activated
+Part	2024-04-10-09-41-24	Coverage (CalculatorTest (2024-4-10 9:34:25))	deactivated
+CaretPosition	2024-04-10-09-41-24	CalculatorTest.java	115
+Part	2024-04-10-09-41-24	CalculatorTest.java	activated
+CaretPosition	2024-04-10-09-41-24	CalculatorTest.java	118
+CaretPosition	2024-04-10-09-41-25	CalculatorTest.java	111
+CaretPosition	2024-04-10-09-41-30	CalculatorTest.java	121
+Part	2024-04-10-09-41-32	JUnit	opened
+Part	2024-04-10-09-41-32	JUnit	broughtToTop
+Part	2024-04-10-09-41-33	CalculatorTest.java	deactivated
+Part	2024-04-10-09-41-34	Console (<terminated> CalculatorTest [JUnit] C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (2024年4月10日 上午9:41:32))	broughtToTop
+Part	2024-04-10-09-41-38	JUnit (Finished after 0.086 seconds)	closed
+CaretPosition	2024-04-10-09-41-38	CalculatorTest.java	121
+Part	2024-04-10-09-41-38	CalculatorTest.java	activated
+Part	2024-04-10-09-41-39	Coverage (CalculatorTest (2024-4-10 9:41:33))	broughtToTop
+Part	2024-04-10-09-41-40	CalculatorTest.java	deactivated
+Part	2024-04-10-09-41-40	Coverage (CalculatorTest (2024-4-10 9:41:33))	activated
+Part	2024-04-10-09-41-41	Coverage (CalculatorTest (2024-4-10 9:41:33))	deactivated
+CaretPosition	2024-04-10-09-41-41	CalculatorTest.java	121
+Part	2024-04-10-09-41-41	CalculatorTest.java	activated
+CaretPosition	2024-04-10-09-41-42	CalculatorTest.java	123
+FileState	2024-04-10-09-42-10	1712713330696	Timer

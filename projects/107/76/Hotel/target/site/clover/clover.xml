@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1712813928630" clover="4.4.1">
+   <project name="Hotel 0.0.1-SNAPSHOT" timestamp="1712813925033">
+      <metrics coveredelements="305" complexity="156" loc="893" methods="88" classes="13" statements="305" packages="1" coveredconditionals="73" coveredmethods="46" elements="507" ncloc="644" files="13" conditionals="114" coveredstatements="186"/>
+      <package name="net.mooctest">
+         <metrics coveredelements="305" complexity="156" loc="893" methods="88" classes="13" statements="305" coveredconditionals="73" coveredmethods="46" elements="507" ncloc="644" files="13" conditionals="114" coveredstatements="186"/>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\main\java\net\mooctest\BookedState.java" name="BookedState.java">
+            <metrics coveredelements="0" coveredconditionals="0" complexity="5" loc="33" coveredmethods="0" methods="5" elements="12" classes="1" ncloc="26" statements="7" conditionals="0" coveredstatements="0"/>
+            <class name="BookedState">
+               <metrics coveredelements="0" coveredconditionals="0" complexity="5" coveredmethods="0" methods="5" elements="12" statements="7" conditionals="0" coveredstatements="0"/>
+            </class>
+            <line complexity="1" visibility="public" signature="book(Room) : void" num="7" count="0" type="method"/>
+            <line num="8" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="unsubscribe(Room) : void" num="11" count="0" type="method"/>
+            <line num="12" count="0" type="stmt"/>
+            <line num="15" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="checkIn(Room) : void" num="18" count="0" type="method"/>
+            <line num="19" count="0" type="stmt"/>
+            <line num="22" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="checkOut(Room) : void" num="25" count="0" type="method"/>
+            <line num="26" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="toString() : String" num="29" count="0" type="method"/>
+            <line num="31" count="0" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\main\java\net\mooctest\CheckInState.java" name="CheckInState.java">
+            <metrics coveredelements="0" coveredconditionals="0" complexity="5" loc="30" coveredmethods="0" methods="5" elements="11" classes="1" ncloc="23" statements="6" conditionals="0" coveredstatements="0"/>
+            <class name="CheckInState">
+               <metrics coveredelements="0" coveredconditionals="0" complexity="5" coveredmethods="0" methods="5" elements="11" statements="6" conditionals="0" coveredstatements="0"/>
+            </class>
+            <line complexity="1" visibility="public" signature="book(Room) : void" num="7" count="0" type="method"/>
+            <line num="8" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="unsubscribe(Room) : void" num="11" count="0" type="method"/>
+            <line num="12" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="checkIn(Room) : void" num="15" count="0" type="method"/>
+            <line num="16" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="checkOut(Room) : void" num="19" count="0" type="method"/>
+            <line num="20" count="0" type="stmt"/>
+            <line num="23" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="toString() : String" num="26" count="0" type="method"/>
+            <line num="28" count="0" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\main\java\net\mooctest\FreeTimeState.java" name="FreeTimeState.java">
+            <metrics coveredelements="5" coveredconditionals="0" complexity="5" loc="31" coveredmethods="2" methods="5" elements="12" classes="1" ncloc="26" statements="7" conditionals="0" coveredstatements="3"/>
+            <class name="FreeTimeState">
+               <metrics coveredelements="5" coveredconditionals="0" complexity="5" coveredmethods="2" methods="5" elements="12" statements="7" conditionals="0" coveredstatements="3"/>
+            </class>
+            <line complexity="1" visibility="public" signature="book(Room) : void" num="6" count="0" type="method"/>
+            <line num="7" count="0" type="stmt"/>
+            <line num="10" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="unsubscribe(Room) : void" num="12" count="0" type="method"/>
+            <line num="13" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="checkIn(Room) : void" num="16" count="5" type="method"/>
+            <line num="17" count="5" type="stmt"/>
+            <line num="20" count="5" type="stmt"/>
+            <line complexity="1" visibility="public" signature="checkOut(Room) : void" num="23" count="0" type="method"/>
+            <line num="24" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="toString() : String" num="27" count="6" type="method"/>
+            <line num="29" count="6" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\main\java\net\mooctest\Hotel.java" name="Hotel.java">
+            <metrics coveredelements="112" coveredconditionals="30" complexity="33" loc="215" coveredmethods="12" methods="15" elements="134" classes="1" ncloc="144" statements="83" conditionals="36" coveredstatements="70"/>
+            <class name="Hotel">
+               <metrics coveredelements="112" coveredconditionals="30" complexity="33" coveredmethods="12" methods="15" elements="134" statements="83" conditionals="36" coveredstatements="70"/>
+            </class>
+            <line complexity="1" visibility="package" signature="&lt;clinit&gt;, line 18()" num="18" count="1" type="method"/>
+            <line num="19" count="1" type="stmt"/>
+            <line complexity="1" visibility="public" signature="main(String[]) : void" num="22" count="0" type="method"/>
+            <line num="23" count="0" type="stmt"/>
+            <line complexity="1" visibility="private" signature="init() : void" num="27" count="3" type="method"/>
+            <line num="28" count="3" type="stmt"/>
+            <line num="29" count="3" type="stmt"/>
+            <line num="30" count="3" type="stmt"/>
+            <line num="31" count="3" type="stmt"/>
+            <line num="32" count="3" type="stmt"/>
+            <line num="33" count="3" type="stmt"/>
+            <line num="34" count="3" type="stmt"/>
+            <line num="35" count="3" type="stmt"/>
+            <line num="36" count="3" type="stmt"/>
+            <line num="37" count="3" type="stmt"/>
+            <line num="38" count="3" type="stmt"/>
+            <line num="39" count="3" type="stmt"/>
+            <line num="40" count="3" type="stmt"/>
+            <line complexity="1" visibility="public" signature="Hotel()" num="43" count="2" type="method"/>
+            <line num="44" count="2" type="stmt"/>
+            <line complexity="3" visibility="public" signature="queryRoom(int) : void" num="52" count="2" type="method"/>
+            <line num="53" count="2" type="stmt"/>
+            <line num="55" count="2" type="stmt"/>
+            <line num="56" count="4" type="stmt"/>
+            <line falsecount="3" truecount="1" num="56" type="cond"/>
+            <line num="57" count="1" type="stmt"/>
+            <line num="58" count="1" type="stmt"/>
+            <line num="61" count="2" type="stmt"/>
+            <line falsecount="1" truecount="1" num="61" type="cond"/>
+            <line num="62" count="1" type="stmt"/>
+            <line num="64" count="1" type="stmt"/>
+            <line complexity="1" visibility="private" signature="printRoomInfo(Room) : void" num="69" count="2" type="method"/>
+            <line num="70" count="2" type="stmt"/>
+            <line complexity="3" visibility="public" signature="printAllRoomsInfo() : void" num="80" count="1" type="method"/>
+            <line num="82" count="1" type="stmt"/>
+            <line num="83" count="1" type="stmt"/>
+            <line falsecount="1" truecount="2" num="83" type="cond"/>
+            <line num="84" count="2" type="stmt"/>
+            <line num="86" count="1" type="stmt"/>
+            <line num="87" count="1" type="stmt"/>
+            <line falsecount="1" truecount="2" num="87" type="cond"/>
+            <line num="88" count="2" type="stmt"/>
+            <line complexity="4" visibility="private" signature="sortByValue(Room[]) : void" num="92" count="1" type="method"/>
+            <line num="93" count="1" type="stmt"/>
+            <line falsecount="1" truecount="2" num="93" type="cond"/>
+            <line num="94" count="2" type="stmt"/>
+            <line falsecount="2" truecount="1" num="94" type="cond"/>
+            <line num="95" count="1" type="stmt"/>
+            <line falsecount="1" truecount="0" num="95" type="cond"/>
+            <line num="96" count="0" type="stmt"/>
+            <line complexity="1" visibility="private" signature="getValue(Room) : int" num="102" count="2" type="method"/>
+            <line num="103" count="2" type="stmt"/>
+            <line num="104" count="2" type="stmt"/>
+            <line num="105" count="2" type="stmt"/>
+            <line num="106" count="2" type="stmt"/>
+            <line num="107" count="2" type="stmt"/>
+            <line num="108" count="2" type="stmt"/>
+            <line complexity="4" visibility="private" signature="sortByValue2(Room[]) : void" num="113" count="1" type="method"/>
+            <line num="114" count="1" type="stmt"/>
+            <line falsecount="1" truecount="1" num="114" type="cond"/>
+            <line num="115" count="1" type="stmt"/>
+            <line falsecount="1" truecount="0" num="115" type="cond"/>
+            <line num="116" count="0" type="stmt"/>
+            <line falsecount="0" truecount="0" num="116" type="cond"/>
+            <line num="117" count="0" type="stmt"/>
+            <line complexity="1" visibility="private" signature="swap(Room[],int,int) : void" num="131" count="0" type="method"/>
+            <line num="132" count="0" type="stmt"/>
+            <line num="133" count="0" type="stmt"/>
+            <line num="134" count="0" type="stmt"/>
+            <line complexity="1" visibility="private" signature="getValue2(Room) : int" num="136" count="0" type="method"/>
+            <line num="137" count="0" type="stmt"/>
+            <line num="138" count="0" type="stmt"/>
+            <line num="139" count="0" type="stmt"/>
+            <line num="140" count="0" type="stmt"/>
+            <line num="141" count="0" type="stmt"/>
+            <line complexity="4" visibility="public" signature="getFreeRooms() : List&lt;Room&gt;" num="150" count="1" type="method"/>
+            <line num="151" count="1" type="stmt"/>
+            <line num="152" count="1" type="stmt"/>
+            <line num="153" count="1" type="stmt"/>
+            <line falsecount="0" truecount="1" num="153" type="cond"/>
+            <line num="154" count="1" type="stmt"/>
+            <line num="157" count="1" type="stmt"/>
+            <line num="158" count="1" type="stmt"/>
+            <line falsecount="1" truecount="1" num="158" type="cond"/>
+            <line num="159" count="1" type="stmt"/>
+            <line num="161" count="1" type="stmt"/>
+            <line num="162" count="1" type="stmt"/>
+            <line num="163" count="1" type="stmt"/>
+            <line falsecount="1" truecount="1" num="163" type="cond"/>
+            <line num="164" count="1" type="stmt"/>
+            <line num="166" count="1" type="stmt"/>
+            <line complexity="4" visibility="public" signature="addRoom(String,int,int) : void" num="181" count="7" type="method"/>
+            <line num="182" count="7" type="stmt"/>
+            <line num="183" count="11" type="stmt"/>
+            <line falsecount="11" truecount="0" num="183" type="cond"/>
+            <line num="184" count="0" type="stmt"/>
+            <line num="187" count="7" type="stmt"/>
+            <line num="188" count="7" type="stmt"/>
+            <line num="189" count="7" type="stmt"/>
+            <line falsecount="4" truecount="3" num="189" type="cond"/>
+            <line num="190" count="3" type="stmt"/>
+            <line num="191" count="4" type="stmt"/>
+            <line falsecount="1" truecount="3" num="191" type="cond"/>
+            <line num="192" count="3" type="stmt"/>
+            <line num="194" count="7" type="stmt"/>
+            <line num="195" count="7" type="stmt"/>
+            <line complexity="3" visibility="public" signature="removeRoomFromList(int) : void" num="203" count="2" type="method"/>
+            <line num="204" count="2" type="stmt"/>
+            <line num="205" count="2" type="stmt"/>
+            <line num="206" count="3" type="stmt"/>
+            <line falsecount="2" truecount="1" num="206" type="cond"/>
+            <line num="207" count="1" type="stmt"/>
+            <line num="210" count="2" type="stmt"/>
+            <line falsecount="1" truecount="1" num="210" type="cond"/>
+            <line num="211" count="1" type="stmt"/>
+            <line num="213" count="1" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\main\java\net\mooctest\Manager.java" name="Manager.java">
+            <metrics coveredelements="43" coveredconditionals="14" complexity="11" loc="60" coveredmethods="3" methods="3" elements="43" classes="1" ncloc="41" statements="26" conditionals="14" coveredstatements="26"/>
+            <class name="Manager">
+               <metrics coveredelements="43" coveredconditionals="14" complexity="11" coveredmethods="3" methods="3" elements="43" statements="26" conditionals="14" coveredstatements="26"/>
+            </class>
+            <line complexity="5" visibility="public" signature="checkIn(int,int) : double" num="13" count="6" type="method"/>
+            <line num="14" count="6" type="stmt"/>
+            <line num="15" count="6" type="stmt"/>
+            <line falsecount="5" truecount="1" num="15" type="cond"/>
+            <line num="16" count="1" type="stmt"/>
+            <line num="17" count="5" type="stmt"/>
+            <line num="18" count="5" type="stmt"/>
+            <line num="19" count="5" type="stmt"/>
+            <line falsecount="4" truecount="1" num="19" type="cond"/>
+            <line num="20" count="1" type="stmt"/>
+            <line num="21" count="4" type="stmt"/>
+            <line falsecount="2" truecount="2" num="21" type="cond"/>
+            <line num="22" count="2" type="stmt"/>
+            <line num="23" count="2" type="stmt"/>
+            <line falsecount="1" truecount="1" num="23" type="cond"/>
+            <line num="24" count="1" type="stmt"/>
+            <line num="26" count="1" type="stmt"/>
+            <line complexity="1" visibility="public" signature="transferPrice(double) : String" num="32" count="3" type="method"/>
+            <line num="33" count="3" type="stmt"/>
+            <line num="34" count="3" type="stmt"/>
+            <line complexity="5" visibility="private" signature="intToRoman(int) : String" num="37" count="3" type="method"/>
+            <line num="38" count="3" type="stmt"/>
+            <line num="39" count="3" type="stmt"/>
+            <line num="40" count="3" type="stmt"/>
+            <line num="42" count="3" type="stmt"/>
+            <line falsecount="1" truecount="2" num="42" type="cond"/>
+            <line num="43" count="2" type="stmt"/>
+            <line num="44" count="1" type="stmt"/>
+            <line falsecount="1" truecount="13" num="44" type="cond"/>
+            <line num="46" count="13" type="stmt"/>
+            <line num="47" count="13" type="stmt"/>
+            <line falsecount="13" truecount="10" num="47" type="cond"/>
+            <line num="49" count="10" type="stmt"/>
+            <line num="50" count="10" type="stmt"/>
+            <line num="52" count="13" type="stmt"/>
+            <line num="54" count="1" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\main\java\net\mooctest\Order.java" name="Order.java">
+            <metrics coveredelements="0" coveredconditionals="0" complexity="14" loc="91" coveredmethods="0" methods="9" elements="52" classes="1" ncloc="69" statements="35" conditionals="8" coveredstatements="0"/>
+            <class name="Order">
+               <metrics coveredelements="0" coveredconditionals="0" complexity="14" coveredmethods="0" methods="9" elements="52" statements="35" conditionals="8" coveredstatements="0"/>
+            </class>
+            <line complexity="1" visibility="public" signature="Order(List&lt;OrderItem&gt;)" num="16" count="0" type="method"/>
+            <line num="17" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="setItems(List&lt;OrderItem&gt;) : void" num="20" count="0" type="method"/>
+            <line num="21" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="totalAmount() : double" num="25" count="0" type="method"/>
+            <line num="26" count="0" type="stmt"/>
+            <line num="27" count="0" type="stmt"/>
+            <line num="28" count="0" type="stmt"/>
+            <line num="29" count="0" type="stmt"/>
+            <line complexity="4" visibility="public" signature="createOrder(List&lt;OrderItem&gt;) : void" num="33" count="0" type="method"/>
+            <line num="34" count="0" type="stmt"/>
+            <line num="35" count="0" type="stmt"/>
+            <line falsecount="0" truecount="0" num="35" type="cond"/>
+            <line num="36" count="0" type="stmt"/>
+            <line num="37" count="0" type="stmt"/>
+            <line num="39" count="0" type="stmt"/>
+            <line falsecount="0" truecount="0" num="39" type="cond"/>
+            <line num="40" count="0" type="stmt"/>
+            <line num="41" count="0" type="stmt"/>
+            <line num="44" count="0" type="stmt"/>
+            <line num="45" count="0" type="stmt"/>
+            <line complexity="2" visibility="public" signature="printOrders() : void" num="49" count="0" type="method"/>
+            <line num="50" count="0" type="stmt"/>
+            <line num="51" count="0" type="stmt"/>
+            <line falsecount="0" truecount="0" num="51" type="cond"/>
+            <line num="52" count="0" type="stmt"/>
+            <line num="53" count="0" type="stmt"/>
+            <line num="54" count="0" type="stmt"/>
+            <line num="55" count="0" type="stmt"/>
+            <line num="56" count="0" type="stmt"/>
+            <line num="58" count="0" type="stmt"/>
+            <line complexity="2" visibility="public" signature="searchMaxOrder() : Order" num="62" count="0" type="method"/>
+            <line num="63" count="0" type="stmt"/>
+            <line num="64" count="0" type="stmt"/>
+            <line falsecount="0" truecount="0" num="64" type="cond"/>
+            <line num="65" count="0" type="stmt"/>
+            <line num="67" count="0" type="stmt"/>
+            <line num="69" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="printOrderDetails() : void" num="73" count="0" type="method"/>
+            <line num="74" count="0" type="stmt"/>
+            <line num="75" count="0" type="stmt"/>
+            <line num="77" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="formatDouble(double) : String" num="81" count="0" type="method"/>
+            <line num="82" count="0" type="stmt"/>
+            <line num="83" count="0" type="stmt"/>
+            <line num="84" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getItems() : List&lt;OrderItem&gt;" num="88" count="0" type="method"/>
+            <line num="89" count="0" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\main\java\net\mooctest\OrderItem.java" name="OrderItem.java">
+            <metrics coveredelements="4" coveredconditionals="0" complexity="10" loc="57" coveredmethods="1" methods="10" elements="24" classes="1" ncloc="45" statements="14" conditionals="0" coveredstatements="3"/>
+            <class name="OrderItem">
+               <metrics coveredelements="4" coveredconditionals="0" complexity="10" coveredmethods="1" methods="10" elements="24" statements="14" conditionals="0" coveredstatements="3"/>
+            </class>
+            <line complexity="1" visibility="public" signature="OrderItem(String,double,int)" num="10" count="0" type="method"/>
+            <line num="11" count="0" type="stmt"/>
+            <line num="12" count="0" type="stmt"/>
+            <line num="13" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="PrintOrderItem() : String" num="16" count="0" type="method"/>
+            <line num="17" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getProductName() : String" num="23" count="0" type="method"/>
+            <line num="24" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getPaymentPrice() : double" num="27" count="0" type="method"/>
+            <line num="28" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getCount() : int" num="31" count="0" type="method"/>
+            <line num="32" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="setProductName(String) : void" num="35" count="0" type="method"/>
+            <line num="36" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="setPaymentPrice(double) : void" num="39" count="0" type="method"/>
+            <line num="40" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="setCount(int) : void" num="43" count="0" type="method"/>
+            <line num="44" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getAmount() : double" num="47" count="0" type="method"/>
+            <line num="48" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="formatDouble(double) : String" num="51" count="3" type="method"/>
+            <line num="52" count="3" type="stmt"/>
+            <line num="53" count="3" type="stmt"/>
+            <line num="54" count="3" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\main\java\net\mooctest\Product.java" name="Product.java">
+            <metrics coveredelements="40" coveredconditionals="9" complexity="19" loc="81" coveredmethods="7" methods="7" elements="57" classes="1" ncloc="62" statements="32" conditionals="18" coveredstatements="24"/>
+            <class name="Product">
+               <metrics coveredelements="40" coveredconditionals="9" complexity="19" coveredmethods="7" methods="7" elements="57" statements="32" conditionals="18" coveredstatements="24"/>
+            </class>
+            <line complexity="1" visibility="public" signature="Product(String,double,int)" num="12" count="3" type="method"/>
+            <line num="13" count="3" type="stmt"/>
+            <line num="14" count="3" type="stmt"/>
+            <line num="15" count="3" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getPaymentPrice() : double" num="19" count="4" type="method"/>
+            <line num="20" count="4" type="stmt"/>
+            <line complexity="3" visibility="public" signature="setPrice(double) : void" num="24" count="4" type="method"/>
+            <line num="25" count="4" type="stmt"/>
+            <line falsecount="4" truecount="0" num="25" type="cond"/>
+            <line num="26" count="0" type="stmt"/>
+            <line num="27" count="4" type="stmt"/>
+            <line falsecount="4" truecount="0" num="27" type="cond"/>
+            <line num="28" count="0" type="stmt"/>
+            <line num="30" count="4" type="stmt"/>
+            <line complexity="4" visibility="public" signature="setDiscount(double) : void" num="34" count="1" type="method"/>
+            <line num="35" count="1" type="stmt"/>
+            <line falsecount="1" truecount="0" num="35" type="cond"/>
+            <line num="36" count="0" type="stmt"/>
+            <line num="37" count="1" type="stmt"/>
+            <line falsecount="1" truecount="0" num="37" type="cond"/>
+            <line num="38" count="0" type="stmt"/>
+            <line num="39" count="1" type="stmt"/>
+            <line falsecount="1" truecount="0" num="39" type="cond"/>
+            <line num="40" count="0" type="stmt"/>
+            <line num="42" count="1" type="stmt"/>
+            <line complexity="6" visibility="public" signature="setName(String) : void" num="46" count="3" type="method"/>
+            <line num="47" count="3" type="stmt"/>
+            <line num="48" count="3" type="stmt"/>
+            <line num="49" count="14" type="stmt"/>
+            <line falsecount="14" truecount="0" num="49" type="cond"/>
+            <line num="50" count="0" type="stmt"/>
+            <line num="53" count="3" type="stmt"/>
+            <line falsecount="3" truecount="0" num="53" type="cond"/>
+            <line num="54" count="0" type="stmt"/>
+            <line num="56" count="3" type="stmt"/>
+            <line complexity="2" visibility="public" signature="setCount(int) : void" num="60" count="4" type="method"/>
+            <line num="61" count="4" type="stmt"/>
+            <line falsecount="4" truecount="0" num="61" type="cond"/>
+            <line num="62" count="0" type="stmt"/>
+            <line num="64" count="4" type="stmt"/>
+            <line complexity="2" visibility="public" signature="getInfo() : String" num="68" count="3" type="method"/>
+            <line num="69" count="3" type="stmt"/>
+            <line num="70" count="3" type="stmt"/>
+            <line num="71" count="3" type="stmt"/>
+            <line falsecount="0" truecount="3" num="71" type="cond"/>
+            <line num="72" count="3" type="stmt"/>
+            <line num="73" count="3" type="stmt"/>
+            <line num="77" count="3" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\main\java\net\mooctest\Room.java" name="Room.java">
+            <metrics coveredelements="38" coveredconditionals="5" complexity="25" loc="107" coveredmethods="12" methods="17" elements="58" classes="1" ncloc="79" statements="31" conditionals="10" coveredstatements="21"/>
+            <class name="Room">
+               <metrics coveredelements="38" coveredconditionals="5" complexity="25" coveredmethods="12" methods="17" elements="58" statements="31" conditionals="10" coveredstatements="21"/>
+            </class>
+            <line complexity="1" visibility="public" signature="Room()" num="11" count="0" type="method"/>
+            <line num="12" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="Room(int,String,int,double)" num="15" count="9" type="method"/>
+            <line num="16" count="9" type="stmt"/>
+            <line num="17" count="9" type="stmt"/>
+            <line num="18" count="9" type="stmt"/>
+            <line num="19" count="9" type="stmt"/>
+            <line num="20" count="9" type="stmt"/>
+            <line complexity="1" visibility="public" signature="book() : void" num="23" count="0" type="method"/>
+            <line num="24" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="unsubscribe() : void" num="27" count="0" type="method"/>
+            <line num="28" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="checkIn() : void" num="31" count="5" type="method"/>
+            <line num="32" count="5" type="stmt"/>
+            <line complexity="1" visibility="public" signature="checkOut() : void" num="35" count="0" type="method"/>
+            <line num="36" count="0" type="stmt"/>
+            <line complexity="4" visibility="public" signature="setRoomCode(int) : void" num="42" count="9" type="method"/>
+            <line num="43" count="9" type="stmt"/>
+            <line falsecount="9" truecount="0" num="43" type="cond"/>
+            <line num="44" count="0" type="stmt"/>
+            <line num="45" count="9" type="stmt"/>
+            <line complexity="2" visibility="public" signature="setType(String) : void" num="52" count="9" type="method"/>
+            <line num="53" count="9" type="stmt"/>
+            <line falsecount="9" truecount="0" num="53" type="cond"/>
+            <line num="54" count="0" type="stmt"/>
+            <line num="55" count="9" type="stmt"/>
+            <line complexity="3" visibility="public" signature="setCapacity(int) : void" num="58" count="9" type="method"/>
+            <line num="59" count="9" type="stmt"/>
+            <line falsecount="9" truecount="0" num="59" type="cond"/>
+            <line num="60" count="0" type="stmt"/>
+            <line num="61" count="9" type="stmt"/>
+            <line complexity="3" visibility="public" signature="setPrice(double) : void" num="67" count="9" type="method"/>
+            <line num="68" count="9" type="stmt"/>
+            <line falsecount="9" truecount="0" num="68" type="cond"/>
+            <line num="69" count="0" type="stmt"/>
+            <line num="70" count="9" type="stmt"/>
+            <line falsecount="9" truecount="0" num="70" type="cond"/>
+            <line num="71" count="0" type="stmt"/>
+            <line num="73" count="9" type="stmt"/>
+            <line complexity="1" visibility="public" signature="setState(RoomState) : void" num="76" count="14" type="method"/>
+            <line num="77" count="14" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getRoomCode() : int" num="80" count="45" type="method"/>
+            <line num="81" count="45" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getType() : String" num="84" count="2" type="method"/>
+            <line num="85" count="2" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getCapacity() : int" num="88" count="0" type="method"/>
+            <line num="89" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getPrice() : double" num="92" count="6" type="method"/>
+            <line num="93" count="6" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getState() : RoomState" num="96" count="3" type="method"/>
+            <line num="97" count="3" type="stmt"/>
+            <line complexity="1" visibility="public" signature="toString() : String" num="100" count="3" type="method"/>
+            <line num="101" count="3" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\main\java\net\mooctest\RoomState.java" name="RoomState.java">
+            <metrics coveredelements="0" coveredconditionals="0" complexity="0" loc="16" coveredmethods="0" methods="0" elements="0" classes="1" ncloc="7" statements="0" conditionals="0" coveredstatements="0"/>
+            <class name="RoomState">
+               <metrics coveredelements="0" coveredconditionals="0" complexity="0" coveredmethods="0" methods="0" elements="0" statements="0" conditionals="0" coveredstatements="0"/>
+            </class>
+         </file>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\main\java\net\mooctest\RoomType.java" name="RoomType.java">
+            <metrics coveredelements="4" coveredconditionals="1" complexity="4" loc="14" coveredmethods="1" methods="1" elements="6" classes="1" ncloc="12" statements="3" conditionals="2" coveredstatements="2"/>
+            <class name="RoomType">
+               <metrics coveredelements="4" coveredconditionals="1" complexity="4" coveredmethods="1" methods="1" elements="6" statements="3" conditionals="2" coveredstatements="2"/>
+            </class>
+            <line complexity="4" visibility="public" signature="isRoomType(String) : boolean" num="8" count="9" type="method"/>
+            <line num="9" count="9" type="stmt"/>
+            <line falsecount="9" truecount="0" num="9" type="cond"/>
+            <line num="10" count="0" type="stmt"/>
+            <line num="12" count="9" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\main\java\net\mooctest\Shop.java" name="Shop.java">
+            <metrics coveredelements="59" coveredconditionals="14" complexity="20" loc="118" coveredmethods="8" methods="8" elements="80" classes="1" ncloc="80" statements="48" conditionals="24" coveredstatements="37"/>
+            <class name="Shop">
+               <metrics coveredelements="59" coveredconditionals="14" complexity="20" coveredmethods="8" methods="8" elements="80" statements="48" conditionals="24" coveredstatements="37"/>
+            </class>
+            <line complexity="1" visibility="public" signature="Shop()" num="10" count="1" type="method"/>
+            <line num="11" count="1" type="stmt"/>
+            <line complexity="4" visibility="public" signature="getAllProductsInfo() : String" num="17" count="1" type="method"/>
+            <line num="18" count="1" type="stmt"/>
+            <line num="19" count="1" type="stmt"/>
+            <line num="20" count="1" type="stmt"/>
+            <line num="21" count="2" type="stmt"/>
+            <line falsecount="0" truecount="2" num="21" type="cond"/>
+            <line num="22" count="2" type="stmt"/>
+            <line num="23" count="0" type="stmt"/>
+            <line falsecount="0" truecount="0" num="23" type="cond"/>
+            <line num="24" count="0" type="stmt"/>
+            <line num="26" count="0" type="stmt"/>
+            <line num="29" count="1" type="stmt"/>
+            <line falsecount="1" truecount="3" num="29" type="cond"/>
+            <line num="30" count="3" type="stmt"/>
+            <line num="32" count="1" type="stmt"/>
+            <line complexity="2" visibility="public" signature="addProduct(Product) : int" num="40" count="3" type="method"/>
+            <line num="41" count="3" type="stmt"/>
+            <line num="42" count="3" type="stmt"/>
+            <line falsecount="3" truecount="0" num="42" type="cond"/>
+            <line num="43" count="0" type="stmt"/>
+            <line num="44" count="0" type="stmt"/>
+            <line num="46" count="3" type="stmt"/>
+            <line num="47" count="3" type="stmt"/>
+            <line complexity="2" visibility="public" signature="deletProduct(String) : int" num="56" count="1" type="method"/>
+            <line num="57" count="1" type="stmt"/>
+            <line num="58" count="1" type="stmt"/>
+            <line falsecount="1" truecount="0" num="58" type="cond"/>
+            <line num="59" count="0" type="stmt"/>
+            <line num="61" count="1" type="stmt"/>
+            <line num="62" count="1" type="stmt"/>
+            <line complexity="4" visibility="public" signature="sellProduct(String,int) : int" num="70" count="1" type="method"/>
+            <line num="71" count="1" type="stmt"/>
+            <line num="72" count="1" type="stmt"/>
+            <line falsecount="1" truecount="0" num="72" type="cond"/>
+            <line num="73" count="0" type="stmt"/>
+            <line num="74" count="1" type="stmt"/>
+            <line falsecount="1" truecount="0" num="74" type="cond"/>
+            <line num="75" count="0" type="stmt"/>
+            <line num="76" count="1" type="stmt"/>
+            <line falsecount="1" truecount="0" num="76" type="cond"/>
+            <line num="77" count="0" type="stmt"/>
+            <line num="78" count="1" type="stmt"/>
+            <line num="79" count="1" type="stmt"/>
+            <line complexity="2" visibility="public" signature="updateProduct(String,double,double) : Product" num="87" count="1" type="method"/>
+            <line num="88" count="1" type="stmt"/>
+            <line num="89" count="1" type="stmt"/>
+            <line falsecount="1" truecount="0" num="89" type="cond"/>
+            <line num="90" count="0" type="stmt"/>
+            <line num="91" count="1" type="stmt"/>
+            <line num="92" count="1" type="stmt"/>
+            <line num="93" count="1" type="stmt"/>
+            <line complexity="3" visibility="public" signature="searchProduct(String) : int" num="98" count="8" type="method"/>
+            <line num="99" count="8" type="stmt"/>
+            <line num="100" count="8" type="stmt"/>
+            <line falsecount="4" truecount="13" num="100" type="cond"/>
+            <line num="101" count="13" type="stmt"/>
+            <line falsecount="9" truecount="4" num="101" type="cond"/>
+            <line num="102" count="4" type="stmt"/>
+            <line num="103" count="4" type="stmt"/>
+            <line num="106" count="8" type="stmt"/>
+            <line complexity="2" visibility="public" signature="getProductByName(String) : Product" num="110" count="1" type="method"/>
+            <line num="111" count="1" type="stmt"/>
+            <line num="112" count="1" type="stmt"/>
+            <line falsecount="1" truecount="0" num="112" type="cond"/>
+            <line num="113" count="0" type="stmt"/>
+            <line num="114" count="1" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\main\java\net\mooctest\ShopKeeper.java" name="ShopKeeper.java">
+            <metrics coveredelements="0" coveredconditionals="0" complexity="5" loc="40" coveredmethods="0" methods="3" elements="18" classes="1" ncloc="30" statements="13" conditionals="2" coveredstatements="0"/>
+            <class name="ShopKeeper">
+               <metrics coveredelements="0" coveredconditionals="0" complexity="5" coveredmethods="0" methods="3" elements="18" statements="13" conditionals="2" coveredstatements="0"/>
+            </class>
+            <line complexity="1" visibility="public" signature="setShop(Shop) : void" num="10" count="0" type="method"/>
+            <line num="11" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="showAllProducts() : void" num="14" count="0" type="method"/>
+            <line num="15" count="0" type="stmt"/>
+            <line complexity="3" visibility="public" signature="sellProducts(Map&lt;String, Integer&gt;) : void" num="22" count="0" type="method"/>
+            <line num="23" count="0" type="stmt"/>
+            <line num="24" count="0" type="stmt"/>
+            <line num="25" count="0" type="stmt"/>
+            <line num="26" count="0" type="stmt"/>
+            <line num="27" count="0" type="stmt"/>
+            <line num="28" count="0" type="stmt"/>
+            <line num="29" count="0" type="stmt"/>
+            <line num="31" count="0" type="stmt"/>
+            <line num="32" count="0" type="stmt"/>
+            <line num="35" count="0" type="stmt"/>
+            <line falsecount="0" truecount="0" num="35" type="cond"/>
+            <line num="36" count="0" type="stmt"/>
+         </file>
+      </package>
+   </project>
+   <testproject name="Hotel 0.0.1-SNAPSHOT" timestamp="1712813925033">
+      <metrics coveredelements="51" complexity="11" loc="128" methods="3" classes="2" statements="48" packages="1" coveredconditionals="0" coveredmethods="3" elements="51" ncloc="102" files="2" conditionals="0" coveredstatements="48"/>
+      <package name="net.mooctest">
+         <metrics coveredelements="51" complexity="11" loc="128" methods="3" classes="2" statements="48" coveredconditionals="0" coveredmethods="3" elements="51" ncloc="102" files="2" conditionals="0" coveredstatements="48"/>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\test\java\net\mooctest\HotelTest.java" name="HotelTest.java">
+            <metrics coveredelements="38" coveredconditionals="0" complexity="9" loc="88" coveredmethods="2" methods="2" elements="38" classes="1" ncloc="72" statements="36" conditionals="0" coveredstatements="36"/>
+            <class name="HotelTest">
+               <metrics coveredelements="38" complexity="9" methods="2" testruns="2" statements="36" coveredconditionals="0" coveredmethods="2" elements="38" testfailures="0" testduration="0.126" conditionals="0" coveredstatements="36" testpasses="2"/>
+            </class>
+            <line complexity="5" visibility="public" signature="test1() : void" num="19" testsuccess="true" count="1" testduration="0.042" type="method"/>
+            <line num="21" count="1" type="stmt"/>
+            <line num="22" count="1" type="stmt"/>
+            <line num="23" count="1" type="stmt"/>
+            <line num="24" count="1" type="stmt"/>
+            <line num="25" count="1" type="stmt"/>
+            <line num="26" count="1" type="stmt"/>
+            <line num="27" count="1" type="stmt"/>
+            <line num="28" count="1" type="stmt"/>
+            <line num="29" count="1" type="stmt"/>
+            <line num="33" count="1" type="stmt"/>
+            <line num="34" count="1" type="stmt"/>
+            <line num="39" count="1" type="stmt"/>
+            <line num="41" count="1" type="stmt"/>
+            <line num="42" count="1" type="stmt"/>
+            <line num="47" count="1" type="stmt"/>
+            <line num="48" count="1" type="stmt"/>
+            <line num="52" count="1" type="stmt"/>
+            <line complexity="4" visibility="public" signature="test2() : void" num="55" testsuccess="true" count="1" testduration="0.084" type="method"/>
+            <line num="57" count="1" type="stmt"/>
+            <line num="58" count="1" type="stmt"/>
+            <line num="59" count="1" type="stmt"/>
+            <line num="60" count="1" type="stmt"/>
+            <line num="61" count="1" type="stmt"/>
+            <line num="62" count="1" type="stmt"/>
+            <line num="64" count="1" type="stmt"/>
+            <line num="65" count="1" type="stmt"/>
+            <line num="66" count="1" type="stmt"/>
+            <line num="67" count="1" type="stmt"/>
+            <line num="71" count="1" type="stmt"/>
+            <line num="72" count="1" type="stmt"/>
+            <line num="73" count="1" type="stmt"/>
+            <line num="74" count="1" type="stmt"/>
+            <line num="75" count="1" type="stmt"/>
+            <line num="80" count="1" type="stmt"/>
+            <line num="81" count="1" type="stmt"/>
+            <line num="85" count="1" type="stmt"/>
+            <line num="86" count="1" type="stmt"/>
+         </file>
+         <file path="C:\mooctest\projects\107\76\Hotel\src\test\java\net\mooctest\ShopTest.java" name="ShopTest.java">
+            <metrics coveredelements="13" coveredconditionals="0" complexity="2" loc="40" coveredmethods="1" methods="1" elements="13" classes="1" ncloc="30" statements="12" conditionals="0" coveredstatements="12"/>
+            <class name="ShopTest">
+               <metrics coveredelements="13" complexity="2" methods="1" testruns="1" statements="12" coveredconditionals="0" coveredmethods="1" elements="13" testfailures="0" testduration="0.019" conditionals="0" coveredstatements="12" testpasses="1"/>
+            </class>
+            <line complexity="2" visibility="public" signature="test1() : void" num="17" testsuccess="true" count="1" testduration="0.019" type="method"/>
+            <line num="19" count="1" type="stmt"/>
+            <line num="20" count="1" type="stmt"/>
+            <line num="21" count="1" type="stmt"/>
+            <line num="22" count="1" type="stmt"/>
+            <line num="24" count="1" type="stmt"/>
+            <line num="25" count="1" type="stmt"/>
+            <line num="27" count="1" type="stmt"/>
+            <line num="28" count="1" type="stmt"/>
+            <line num="30" count="1" type="stmt"/>
+            <line num="32" count="1" type="stmt"/>
+            <line num="33" count="1" type="stmt"/>
+            <line num="38" count="1" type="stmt"/>
+         </file>
+      </package>
+   </testproject>
+</coverage>
